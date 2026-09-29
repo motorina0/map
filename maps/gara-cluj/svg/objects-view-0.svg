@@ -1,629 +1,629 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2020" height="1280" viewBox="-27 0 1010 640">
   <defs>
     <linearGradient id="metalRoof">
-      <stop stop-color="#7a8987" />
-      <stop offset="1" stop-color="#3f5151" />
+      <stop stop-color="#7a8987"/>
+      <stop offset="1" stop-color="#3f5151"/>
     </linearGradient>
     <clipPath id="map-footprint">
-      <polygon points="586.617648,48.360316 -24.852755,405.417271 368.697512,634.386436 980.167914,277.329480" />
+      <polygon points="586.617648,48.360316 -24.852755,405.417271 368.697512,634.386436 980.167914,277.329480"/>
     </clipPath>
   </defs>
-  <g data-object="platform:peron-1" data-name="Peronul 1" data-type="Platform" data-source-file="sources/art/platforms.json" data-source-ref="way/262209819" data-source-selector="[data-object=&quot;platform:peron-1&quot;]" data-windowed="" data-depth="-10000" data-order="-100">
-    <image href="../assets/platforms/station-platforms/peron-1/platform/view-0/section-01.png" data-tile-bounds="682.803993466,221.225594631,15.750000000,13.718750000" x="682.803993466" y="221.225594631" width="15.750000000" height="13.718750000" />
-    <image href="../assets/platforms/station-platforms/peron-1/platform/view-0/section-02.png" data-tile-bounds="666.085243466,231.428719631,21.406250000,14.265625000" x="666.085243466" y="231.428719631" width="21.406250000" height="14.265625000" />
-    <image href="../assets/platforms/station-platforms/peron-1/platform/view-0/section-03.png" data-tile-bounds="654.944618466,239.647469631,21.546875000,16.796875000" x="654.944618466" y="239.647469631" width="21.546875000" height="16.796875000" />
-    <image href="../assets/platforms/station-platforms/peron-1/platform/view-0/section-04.png" data-tile-bounds="643.819618466,250.334969631,21.671875000,16.859375000" x="643.819618466" y="250.334969631" width="21.671875000" height="16.859375000" />
-    <image href="../assets/platforms/station-platforms/peron-1/platform/view-0/section-05.png" data-tile-bounds="632.678993466,261.006844631,21.812500000,16.937500000" x="632.678993466" y="261.006844631" width="21.812500000" height="16.937500000" />
-    <image href="../assets/platforms/station-platforms/peron-1/platform/view-0/section-06.png" data-tile-bounds="621.553993466,271.694344631,21.953125000,17.000000000" x="621.553993466" y="271.694344631" width="21.953125000" height="17.000000000" />
-    <image href="../assets/platforms/station-platforms/peron-1/platform/view-0/section-07.png" data-tile-bounds="610.413368466,282.381844631,22.093750000,17.062500000" x="610.413368466" y="282.381844631" width="22.093750000" height="17.062500000" />
-    <image href="../assets/platforms/station-platforms/peron-1/platform/view-0/section-08.png" data-tile-bounds="603.507118466,293.053719631,18.000000000,17.093750000" x="603.507118466" y="293.053719631" width="18.000000000" height="17.093750000" />
-    <image href="../assets/platforms/station-platforms/peron-1/platform/view-0/section-09.png" data-tile-bounds="592.366493466,305.866219631,18.000000000,14.953125000" x="592.366493466" y="305.866219631" width="18.000000000" height="14.953125000" />
-    <image href="../assets/platforms/station-platforms/peron-1/platform/view-0/section-10.png" data-tile-bounds="587.163368466,316.569344631,12.000000000,9.250000000" x="587.163368466" y="316.569344631" width="12.000000000" height="9.250000000" />
+  <g data-object="platform:peron-1" data-name="Peronul 1" data-type="Platform" data-source-file="sources/art/platforms.json" data-source-ref="way/262209819" data-source-selector="[data-object=&quot;platform:peron-1&quot;]" data-windowed="" data-depth="-10000" data-order="-100" data-ground-merged="true">
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-0.webp" data-tile-bounds="682.803993466,221.225594631,15.750000000,13.718750000" x="682.803993466" y="221.225594631" width="15.750000000" height="13.718750000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-1.webp" data-tile-bounds="666.085243466,231.428719631,21.406250000,14.265625000" x="666.085243466" y="231.428719631" width="21.406250000" height="14.265625000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-2.webp" data-tile-bounds="654.944618466,239.647469631,21.546875000,16.796875000" x="654.944618466" y="239.647469631" width="21.546875000" height="16.796875000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-3.webp" data-tile-bounds="643.819618466,250.334969631,21.671875000,16.859375000" x="643.819618466" y="250.334969631" width="21.671875000" height="16.859375000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-4.webp" data-tile-bounds="632.678993466,261.006844631,21.812500000,16.937500000" x="632.678993466" y="261.006844631" width="21.812500000" height="16.937500000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-5.webp" data-tile-bounds="621.553993466,271.694344631,21.953125000,17.000000000" x="621.553993466" y="271.694344631" width="21.953125000" height="17.000000000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-6.webp" data-tile-bounds="610.413368466,282.381844631,22.093750000,17.062500000" x="610.413368466" y="282.381844631" width="22.093750000" height="17.062500000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-7.webp" data-tile-bounds="603.507118466,293.053719631,18.000000000,17.093750000" x="603.507118466" y="293.053719631" width="18.000000000" height="17.093750000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-8.webp" data-tile-bounds="592.366493466,305.866219631,18.000000000,14.953125000" x="592.366493466" y="305.866219631" width="18.000000000" height="14.953125000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-9.webp" data-tile-bounds="587.163368466,316.569344631,12.000000000,9.250000000" x="587.163368466" y="316.569344631" width="12.000000000" height="9.250000000"/>
   </g>
-  <g data-object="platform:peron-2-3" data-name="Peronul 2;3" data-type="Platform" data-source-file="sources/art/platforms.json" data-source-ref="way/215798526" data-source-selector="[data-object=&quot;platform:peron-2-3&quot;]" data-windowed="" data-depth="-9999" data-order="-99">
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-01.png" data-tile-bounds="720.008638076,202.474406812,19.406250000,15.000000000" x="720.008638076" y="202.474406812" width="19.406250000" height="15.000000000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-02.png" data-tile-bounds="708.836763076,212.661906812,19.484375000,15.500000000" x="708.836763076" y="212.661906812" width="19.484375000" height="15.500000000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-03.png" data-tile-bounds="697.649263076,223.349406812,19.484375000,15.484375000" x="697.649263076" y="223.349406812" width="19.484375000" height="15.484375000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-04.png" data-tile-bounds="686.477388076,234.036906812,19.468750000,15.484375000" x="686.477388076" y="234.036906812" width="19.468750000" height="15.484375000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-05.png" data-tile-bounds="675.305513076,244.740031812,19.437500000,15.468750000" x="675.305513076" y="244.740031812" width="19.437500000" height="15.468750000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-06.png" data-tile-bounds="664.133638076,255.427531812,19.421875000,15.468750000" x="664.133638076" y="255.427531812" width="19.421875000" height="15.468750000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-07.png" data-tile-bounds="652.961763076,266.115031812,19.406250000,15.453125000" x="652.961763076" y="266.115031812" width="19.406250000" height="15.453125000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-08.png" data-tile-bounds="641.789888076,276.802531812,19.390625000,15.453125000" x="641.789888076" y="276.802531812" width="19.390625000" height="15.453125000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-09.png" data-tile-bounds="630.602388076,287.490031812,19.390625000,15.453125000" x="630.602388076" y="287.490031812" width="19.390625000" height="15.453125000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-10.png" data-tile-bounds="619.430513076,298.177531812,19.375000000,15.437500000" x="619.430513076" y="298.177531812" width="19.375000000" height="15.437500000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-11.png" data-tile-bounds="608.258638076,308.865031812,19.359375000,15.437500000" x="608.258638076" y="308.865031812" width="19.359375000" height="15.437500000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-12.png" data-tile-bounds="597.086763076,319.552531812,19.328125000,15.437500000" x="597.086763076" y="319.552531812" width="19.328125000" height="15.437500000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-13.png" data-tile-bounds="585.914888076,330.240031812,19.312500000,15.421875000" x="585.914888076" y="330.240031812" width="19.312500000" height="15.421875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-14.png" data-tile-bounds="574.743013076,340.927531812,19.296875000,15.421875000" x="574.743013076" y="340.927531812" width="19.296875000" height="15.421875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-15.png" data-tile-bounds="563.571138076,351.615031812,19.281250000,15.421875000" x="563.571138076" y="351.615031812" width="19.281250000" height="15.421875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-16.png" data-tile-bounds="552.399263076,362.302531812,19.265625000,15.421875000" x="552.399263076" y="362.302531812" width="19.265625000" height="15.421875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-17.png" data-tile-bounds="541.211763076,372.990031812,19.250000000,15.406250000" x="541.211763076" y="372.990031812" width="19.250000000" height="15.406250000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-18.png" data-tile-bounds="530.039888076,383.677531812,19.234375000,15.406250000" x="530.039888076" y="383.677531812" width="19.234375000" height="15.406250000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-19.png" data-tile-bounds="518.868013076,394.380656812,19.218750000,15.390625000" x="518.868013076" y="394.380656812" width="19.218750000" height="15.390625000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-20.png" data-tile-bounds="507.696138076,405.068156812,19.203125000,15.375000000" x="507.696138076" y="405.068156812" width="19.203125000" height="15.375000000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-21.png" data-tile-bounds="496.524263076,415.755656812,19.187500000,15.375000000" x="496.524263076" y="415.755656812" width="19.187500000" height="15.375000000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-22.png" data-tile-bounds="485.352388076,426.443156812,19.156250000,15.375000000" x="485.352388076" y="426.443156812" width="19.156250000" height="15.375000000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-23.png" data-tile-bounds="474.180513076,437.130656812,19.140625000,15.359375000" x="474.180513076" y="437.130656812" width="19.140625000" height="15.359375000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-24.png" data-tile-bounds="463.008638076,447.818156812,19.125000000,15.359375000" x="463.008638076" y="447.818156812" width="19.125000000" height="15.359375000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-25.png" data-tile-bounds="451.821138076,458.505656812,19.125000000,15.359375000" x="451.821138076" y="458.505656812" width="19.125000000" height="15.359375000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-26.png" data-tile-bounds="440.649263076,469.193156812,19.109375000,15.343750000" x="440.649263076" y="469.193156812" width="19.109375000" height="15.343750000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-27.png" data-tile-bounds="429.477388076,479.880656812,19.078125000,15.343750000" x="429.477388076" y="479.880656812" width="19.078125000" height="15.343750000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/platform/view-0/section-28.png" data-tile-bounds="427.571138076,490.677531812,9.796875000,6.171875000" x="427.571138076" y="490.677531812" width="9.796875000" height="6.171875000" />
+  <g data-object="platform:peron-2-3" data-name="Peronul 2;3" data-type="Platform" data-source-file="sources/art/platforms.json" data-source-ref="way/215798526" data-source-selector="[data-object=&quot;platform:peron-2-3&quot;]" data-windowed="" data-depth="-9999" data-order="-99" data-ground-merged="true">
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-10.webp" data-tile-bounds="720.008638076,202.474406812,19.406250000,15.000000000" x="720.008638076" y="202.474406812" width="19.406250000" height="15.000000000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-11.webp" data-tile-bounds="708.836763076,212.661906812,19.484375000,15.500000000" x="708.836763076" y="212.661906812" width="19.484375000" height="15.500000000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-12.webp" data-tile-bounds="697.649263076,223.349406812,19.484375000,15.484375000" x="697.649263076" y="223.349406812" width="19.484375000" height="15.484375000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-13.webp" data-tile-bounds="686.477388076,234.036906812,19.468750000,15.484375000" x="686.477388076" y="234.036906812" width="19.468750000" height="15.484375000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-14.webp" data-tile-bounds="675.305513076,244.740031812,19.437500000,15.468750000" x="675.305513076" y="244.740031812" width="19.437500000" height="15.468750000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-15.webp" data-tile-bounds="664.133638076,255.427531812,19.421875000,15.468750000" x="664.133638076" y="255.427531812" width="19.421875000" height="15.468750000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-16.webp" data-tile-bounds="652.961763076,266.115031812,19.406250000,15.453125000" x="652.961763076" y="266.115031812" width="19.406250000" height="15.453125000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-17.webp" data-tile-bounds="641.789888076,276.802531812,19.390625000,15.453125000" x="641.789888076" y="276.802531812" width="19.390625000" height="15.453125000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-18.webp" data-tile-bounds="630.602388076,287.490031812,19.390625000,15.453125000" x="630.602388076" y="287.490031812" width="19.390625000" height="15.453125000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-19.webp" data-tile-bounds="619.430513076,298.177531812,19.375000000,15.437500000" x="619.430513076" y="298.177531812" width="19.375000000" height="15.437500000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-20.webp" data-tile-bounds="608.258638076,308.865031812,19.359375000,15.437500000" x="608.258638076" y="308.865031812" width="19.359375000" height="15.437500000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-21.webp" data-tile-bounds="597.086763076,319.552531812,19.328125000,15.437500000" x="597.086763076" y="319.552531812" width="19.328125000" height="15.437500000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-22.webp" data-tile-bounds="585.914888076,330.240031812,19.312500000,15.421875000" x="585.914888076" y="330.240031812" width="19.312500000" height="15.421875000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-23.webp" data-tile-bounds="574.743013076,340.927531812,19.296875000,15.421875000" x="574.743013076" y="340.927531812" width="19.296875000" height="15.421875000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-24.webp" data-tile-bounds="563.571138076,351.615031812,19.281250000,15.421875000" x="563.571138076" y="351.615031812" width="19.281250000" height="15.421875000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-25.webp" data-tile-bounds="552.399263076,362.302531812,19.265625000,15.421875000" x="552.399263076" y="362.302531812" width="19.265625000" height="15.421875000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-26.webp" data-tile-bounds="541.211763076,372.990031812,19.250000000,15.406250000" x="541.211763076" y="372.990031812" width="19.250000000" height="15.406250000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-27.webp" data-tile-bounds="530.039888076,383.677531812,19.234375000,15.406250000" x="530.039888076" y="383.677531812" width="19.234375000" height="15.406250000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-28.webp" data-tile-bounds="518.868013076,394.380656812,19.218750000,15.390625000" x="518.868013076" y="394.380656812" width="19.218750000" height="15.390625000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-29.webp" data-tile-bounds="507.696138076,405.068156812,19.203125000,15.375000000" x="507.696138076" y="405.068156812" width="19.203125000" height="15.375000000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-30.webp" data-tile-bounds="496.524263076,415.755656812,19.187500000,15.375000000" x="496.524263076" y="415.755656812" width="19.187500000" height="15.375000000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-31.webp" data-tile-bounds="485.352388076,426.443156812,19.156250000,15.375000000" x="485.352388076" y="426.443156812" width="19.156250000" height="15.375000000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-32.webp" data-tile-bounds="474.180513076,437.130656812,19.140625000,15.359375000" x="474.180513076" y="437.130656812" width="19.140625000" height="15.359375000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-33.webp" data-tile-bounds="463.008638076,447.818156812,19.125000000,15.359375000" x="463.008638076" y="447.818156812" width="19.125000000" height="15.359375000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-34.webp" data-tile-bounds="451.821138076,458.505656812,19.125000000,15.359375000" x="451.821138076" y="458.505656812" width="19.125000000" height="15.359375000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-35.webp" data-tile-bounds="440.649263076,469.193156812,19.109375000,15.343750000" x="440.649263076" y="469.193156812" width="19.109375000" height="15.343750000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-36.webp" data-tile-bounds="429.477388076,479.880656812,19.078125000,15.343750000" x="429.477388076" y="479.880656812" width="19.078125000" height="15.343750000"/>
+    <image href="../ground/tiles/6b36de7f2dbc86299e4b/mask-37.webp" data-tile-bounds="427.571138076,490.677531812,9.796875000,6.171875000" x="427.571138076" y="490.677531812" width="9.796875000" height="6.171875000"/>
   </g>
   <g data-canopy="canopy-platform-1" data-center="195.549775,260.320923" data-source-file="sources/art/canopies.json" data-object="canopy:canopy-platform-1" data-source-ref="way/262209819" data-source-selector="[data-object=&quot;canopy:canopy-platform-1&quot;]" data-name="Copertină Peronul 1" data-type="Canopy" data-depth="272.271366" data-order="0" data-canopy-variant="station-attached" data-windowed="">
-    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-01.png" data-tile-bounds="656.257118466,234.866219631,21.765625000,16.109375000" x="656.257118466" y="234.866219631" width="21.765625000" height="16.109375000" />
-    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-02.png" data-tile-bounds="645.147743466,245.522469631,21.796875000,16.140625000" x="645.147743466" y="245.522469631" width="21.796875000" height="16.140625000" />
-    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-03.png" data-tile-bounds="634.038368466,256.209969631,21.796875000,16.125000000" x="634.038368466" y="256.209969631" width="21.796875000" height="16.125000000" />
-    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-04.png" data-tile-bounds="622.928993466,266.897469631,21.796875000,16.125000000" x="622.928993466" y="266.897469631" width="21.796875000" height="16.125000000" />
-    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-05.png" data-tile-bounds="611.819618466,277.569344631,21.796875000,16.140625000" x="611.819618466" y="277.569344631" width="21.796875000" height="16.140625000" />
-    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-06.png" data-tile-bounds="604.428993466,288.256844631,18.078125000,12.812500000" x="604.428993466" y="288.256844631" width="18.078125000" height="12.812500000" />
+    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-01.png" data-tile-bounds="656.257118466,234.866219631,21.765625000,16.109375000" x="656.257118466" y="234.866219631" width="21.765625000" height="16.109375000"/>
+    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-02.png" data-tile-bounds="645.147743466,245.522469631,21.796875000,16.140625000" x="645.147743466" y="245.522469631" width="21.796875000" height="16.140625000"/>
+    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-03.png" data-tile-bounds="634.038368466,256.209969631,21.796875000,16.125000000" x="634.038368466" y="256.209969631" width="21.796875000" height="16.125000000"/>
+    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-04.png" data-tile-bounds="622.928993466,266.897469631,21.796875000,16.125000000" x="622.928993466" y="266.897469631" width="21.796875000" height="16.125000000"/>
+    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-05.png" data-tile-bounds="611.819618466,277.569344631,21.796875000,16.140625000" x="611.819618466" y="277.569344631" width="21.796875000" height="16.140625000"/>
+    <image href="../assets/platforms/station-platforms/peron-1/canopy/view-0/section-06.png" data-tile-bounds="604.428993466,288.256844631,18.078125000,12.812500000" x="604.428993466" y="288.256844631" width="18.078125000" height="12.812500000"/>
   </g>
   <g data-canopy="canopy-platform-2-3" data-center="247.818352,290.194014" data-source-file="sources/art/canopies.json" data-object="canopy:canopy-platform-2-3" data-source-ref="way/215798526" data-source-selector="[data-object=&quot;canopy:canopy-platform-2-3&quot;]" data-name="Copertină Peronul 2;3" data-type="Canopy" data-depth="312.647623" data-order="1" data-canopy-variant="concrete-photo" data-windowed="">
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-01.png" data-tile-bounds="683.555513076,233.255656812,18.062500000,14.718750000" x="683.555513076" y="233.255656812" width="18.062500000" height="14.718750000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-02.png" data-tile-bounds="672.461763076,243.786906812,18.250000000,14.796875000" x="672.461763076" y="243.786906812" width="18.250000000" height="14.796875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-03.png" data-tile-bounds="661.352388076,254.396281812,18.265625000,14.781250000" x="661.352388076" y="254.396281812" width="18.265625000" height="14.781250000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-04.png" data-tile-bounds="650.258638076,264.990031812,18.250000000,14.796875000" x="650.258638076" y="264.990031812" width="18.250000000" height="14.796875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-05.png" data-tile-bounds="639.164888076,275.599406812,18.250000000,14.796875000" x="639.164888076" y="275.599406812" width="18.250000000" height="14.796875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-06.png" data-tile-bounds="628.055513076,286.208781812,18.265625000,14.796875000" x="628.055513076" y="286.208781812" width="18.265625000" height="14.796875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-07.png" data-tile-bounds="616.961763076,296.818156812,18.265625000,14.796875000" x="616.961763076" y="296.818156812" width="18.265625000" height="14.796875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-08.png" data-tile-bounds="605.868013076,307.411906812,18.250000000,14.875000000" x="605.868013076" y="307.411906812" width="18.250000000" height="14.875000000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-09.png" data-tile-bounds="594.758638076,318.021281812,18.265625000,14.796875000" x="594.758638076" y="318.021281812" width="18.265625000" height="14.796875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-10.png" data-tile-bounds="583.664888076,328.630656812,18.265625000,14.796875000" x="583.664888076" y="328.630656812" width="18.265625000" height="14.796875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-11.png" data-tile-bounds="572.571138076,339.240031812,18.250000000,14.796875000" x="572.571138076" y="339.240031812" width="18.250000000" height="14.796875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-12.png" data-tile-bounds="561.477388076,349.833781812,18.250000000,14.796875000" x="561.477388076" y="349.833781812" width="18.250000000" height="14.796875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-13.png" data-tile-bounds="550.368013076,360.443156812,18.265625000,14.796875000" x="550.368013076" y="360.443156812" width="18.265625000" height="14.796875000" />
-    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-14.png" data-tile-bounds="543.039888076,371.052531812,14.484375000,14.593750000" x="543.039888076" y="371.052531812" width="14.484375000" height="14.593750000" />
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-01.png" data-tile-bounds="683.555513076,233.255656812,18.062500000,14.718750000" x="683.555513076" y="233.255656812" width="18.062500000" height="14.718750000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-02.png" data-tile-bounds="672.461763076,243.786906812,18.250000000,14.796875000" x="672.461763076" y="243.786906812" width="18.250000000" height="14.796875000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-03.png" data-tile-bounds="661.352388076,254.396281812,18.265625000,14.781250000" x="661.352388076" y="254.396281812" width="18.265625000" height="14.781250000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-04.png" data-tile-bounds="650.258638076,264.990031812,18.250000000,14.796875000" x="650.258638076" y="264.990031812" width="18.250000000" height="14.796875000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-05.png" data-tile-bounds="639.164888076,275.599406812,18.250000000,14.796875000" x="639.164888076" y="275.599406812" width="18.250000000" height="14.796875000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-06.png" data-tile-bounds="628.055513076,286.208781812,18.265625000,14.796875000" x="628.055513076" y="286.208781812" width="18.265625000" height="14.796875000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-07.png" data-tile-bounds="616.961763076,296.818156812,18.265625000,14.796875000" x="616.961763076" y="296.818156812" width="18.265625000" height="14.796875000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-08.png" data-tile-bounds="605.868013076,307.411906812,18.250000000,14.875000000" x="605.868013076" y="307.411906812" width="18.250000000" height="14.875000000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-09.png" data-tile-bounds="594.758638076,318.021281812,18.265625000,14.796875000" x="594.758638076" y="318.021281812" width="18.265625000" height="14.796875000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-10.png" data-tile-bounds="583.664888076,328.630656812,18.265625000,14.796875000" x="583.664888076" y="328.630656812" width="18.265625000" height="14.796875000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-11.png" data-tile-bounds="572.571138076,339.240031812,18.250000000,14.796875000" x="572.571138076" y="339.240031812" width="18.250000000" height="14.796875000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-12.png" data-tile-bounds="561.477388076,349.833781812,18.250000000,14.796875000" x="561.477388076" y="349.833781812" width="18.250000000" height="14.796875000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-13.png" data-tile-bounds="550.368013076,360.443156812,18.265625000,14.796875000" x="550.368013076" y="360.443156812" width="18.265625000" height="14.796875000"/>
+    <image href="../assets/platforms/station-platforms/peron-2-3/canopy/view-0/section-14.png" data-tile-bounds="543.039888076,371.052531812,14.484375000,14.593750000" x="543.039888076" y="371.052531812" width="14.484375000" height="14.593750000"/>
   </g>
   <g data-canopy="canopy-platform-4-5" data-center="261.2,322.4" data-source-file="sources/art/canopies.json" data-object="canopy:canopy-platform-4-5" data-source-ref="way/215798532" data-source-selector="[data-object=&quot;canopy:canopy-platform-4-5&quot;]" data-name="Copertină Peronul 4;5" data-type="Canopy" data-depth="334.998428" data-order="2" data-canopy-variant="concrete-photo" data-windowed="">
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-01.png" data-tile-bounds="699.047241835,257.097904686,18.312500000,14.859375000" x="699.047241835" y="257.097904686" width="18.312500000" height="14.859375000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-02.png" data-tile-bounds="687.703491835,267.738529686,18.500000000,14.937500000" x="687.703491835" y="267.738529686" width="18.500000000" height="14.937500000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-03.png" data-tile-bounds="676.344116835,278.472904686,18.500000000,14.937500000" x="676.344116835" y="278.472904686" width="18.500000000" height="14.937500000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-04.png" data-tile-bounds="664.984741835,289.191654686,18.500000000,14.937500000" x="664.984741835" y="289.191654686" width="18.500000000" height="14.937500000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-05.png" data-tile-bounds="653.625366835,299.926029686,18.515625000,14.937500000" x="653.625366835" y="299.926029686" width="18.515625000" height="14.937500000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-06.png" data-tile-bounds="642.281616835,310.644779686,18.500000000,14.937500000" x="642.281616835" y="310.644779686" width="18.500000000" height="14.937500000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-07.png" data-tile-bounds="630.922241835,321.379154686,18.500000000,14.937500000" x="630.922241835" y="321.379154686" width="18.500000000" height="14.937500000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-08.png" data-tile-bounds="619.562866835,332.097904686,18.500000000,14.937500000" x="619.562866835" y="332.097904686" width="18.500000000" height="14.937500000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-09.png" data-tile-bounds="608.219116835,342.832279686,18.500000000,14.937500000" x="608.219116835" y="342.832279686" width="18.500000000" height="14.937500000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-10.png" data-tile-bounds="596.859741835,353.551029686,18.500000000,14.937500000" x="596.859741835" y="353.551029686" width="18.500000000" height="14.937500000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-11.png" data-tile-bounds="585.500366835,364.285404686,18.500000000,14.921875000" x="585.500366835" y="364.285404686" width="18.500000000" height="14.921875000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-12.png" data-tile-bounds="574.156616835,375.004154686,18.500000000,14.937500000" x="574.156616835" y="375.004154686" width="18.500000000" height="14.937500000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-13.png" data-tile-bounds="562.797241835,385.738529686,18.500000000,14.921875000" x="562.797241835" y="385.738529686" width="18.500000000" height="14.921875000" />
-    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-14.png" data-tile-bounds="559.094116835,396.457279686,10.843750000,11.125000000" x="559.094116835" y="396.457279686" width="10.843750000" height="11.125000000" />
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-01.png" data-tile-bounds="699.047241835,257.097904686,18.312500000,14.859375000" x="699.047241835" y="257.097904686" width="18.312500000" height="14.859375000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-02.png" data-tile-bounds="687.703491835,267.738529686,18.500000000,14.937500000" x="687.703491835" y="267.738529686" width="18.500000000" height="14.937500000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-03.png" data-tile-bounds="676.344116835,278.472904686,18.500000000,14.937500000" x="676.344116835" y="278.472904686" width="18.500000000" height="14.937500000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-04.png" data-tile-bounds="664.984741835,289.191654686,18.500000000,14.937500000" x="664.984741835" y="289.191654686" width="18.500000000" height="14.937500000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-05.png" data-tile-bounds="653.625366835,299.926029686,18.515625000,14.937500000" x="653.625366835" y="299.926029686" width="18.515625000" height="14.937500000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-06.png" data-tile-bounds="642.281616835,310.644779686,18.500000000,14.937500000" x="642.281616835" y="310.644779686" width="18.500000000" height="14.937500000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-07.png" data-tile-bounds="630.922241835,321.379154686,18.500000000,14.937500000" x="630.922241835" y="321.379154686" width="18.500000000" height="14.937500000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-08.png" data-tile-bounds="619.562866835,332.097904686,18.500000000,14.937500000" x="619.562866835" y="332.097904686" width="18.500000000" height="14.937500000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-09.png" data-tile-bounds="608.219116835,342.832279686,18.500000000,14.937500000" x="608.219116835" y="342.832279686" width="18.500000000" height="14.937500000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-10.png" data-tile-bounds="596.859741835,353.551029686,18.500000000,14.937500000" x="596.859741835" y="353.551029686" width="18.500000000" height="14.937500000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-11.png" data-tile-bounds="585.500366835,364.285404686,18.500000000,14.921875000" x="585.500366835" y="364.285404686" width="18.500000000" height="14.921875000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-12.png" data-tile-bounds="574.156616835,375.004154686,18.500000000,14.937500000" x="574.156616835" y="375.004154686" width="18.500000000" height="14.937500000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-13.png" data-tile-bounds="562.797241835,385.738529686,18.500000000,14.921875000" x="562.797241835" y="385.738529686" width="18.500000000" height="14.921875000"/>
+    <image href="../assets/canopies/concrete-photo/canopy-platform-4-5/view-0/section-14.png" data-tile-bounds="559.094116835,396.457279686,10.843750000,11.125000000" x="559.094116835" y="396.457279686" width="10.843750000" height="11.125000000"/>
   </g>
   <g data-canopy="canopy-platform-6-7" data-center="285.6,342.9" data-source-file="svg/view-0.svg" data-object="canopy:canopy-platform-6-7" data-source-ref="way/1416233688" data-source-selector="[data-canopy=&quot;canopy-platform-6-7&quot;]" data-name="Copertină Peronul 6;7" data-type="Canopy" data-depth="357.111145" data-order="3">
-    <line x1="686.4" y1="312.7" x2="686.4" y2="309.2" stroke="#394846" stroke-width="1.2" />
-    <line x1="638.5" y1="357.9" x2="638.5" y2="354.3" stroke="#394846" stroke-width="1.2" />
-    <line x1="590.6" y1="403.0" x2="590.6" y2="399.4" stroke="#394846" stroke-width="1.2" />
-    <polygon points="713.39,283.82 563.63,424.79 556.54,422.23 706.30,281.26" fill="url(#metalRoof)" stroke="#b3bbb3" stroke-width=".8" />
+    <line x1="686.4" y1="312.7" x2="686.4" y2="309.2" stroke="#394846" stroke-width="1.2"/>
+    <line x1="638.5" y1="357.9" x2="638.5" y2="354.3" stroke="#394846" stroke-width="1.2"/>
+    <line x1="590.6" y1="403.0" x2="590.6" y2="399.4" stroke="#394846" stroke-width="1.2"/>
+    <polygon points="713.39,283.82 563.63,424.79 556.54,422.23 706.30,281.26" fill="url(#metalRoof)" stroke="#b3bbb3" stroke-width=".8"/>
   </g>
   <g data-entrance="yes" data-source="node/6451920141" data-source-file="svg/view-0.svg" data-object="entrance:node/6451920141" data-source-ref="node/6451920141" data-source-selector="[data-source=&quot;node/6451920141&quot;]" data-name="" data-type="Entrance" data-depth="302.50761" data-order="4">
-    <line x1="609.7" y1="302.4" x2="609.7" y2="299.9" stroke="#202927" stroke-width="5" />
-    <line x1="609.7" y1="302.4" x2="609.7" y2="299.9" stroke="#b6a574" stroke-width="2.4" />
+    <line x1="609.7" y1="302.4" x2="609.7" y2="299.9" stroke="#202927" stroke-width="5"/>
+    <line x1="609.7" y1="302.4" x2="609.7" y2="299.9" stroke="#b6a574" stroke-width="2.4"/>
   </g>
   <g data-entrance="main" data-source="node/6451920142" data-source-file="svg/view-0.svg" data-object="entrance:node/6451920142" data-source-ref="node/6451920142" data-source-selector="[data-source=&quot;node/6451920142&quot;]" data-name="" data-type="Entrance" data-depth="263.685438" data-order="5">
-    <line x1="617.1" y1="263.6" x2="617.1" y2="261.1" stroke="#202927" stroke-width="5" />
-    <line x1="617.1" y1="263.6" x2="617.1" y2="261.1" stroke="#b6a574" stroke-width="2.4" />
+    <line x1="617.1" y1="263.6" x2="617.1" y2="261.1" stroke="#202927" stroke-width="5"/>
+    <line x1="617.1" y1="263.6" x2="617.1" y2="261.1" stroke="#b6a574" stroke-width="2.4"/>
   </g>
   <g data-entrance="yes" data-source="node/8312197787" data-source-file="svg/view-0.svg" data-object="entrance:node/8312197787" data-source-ref="node/8312197787" data-source-selector="[data-source=&quot;node/8312197787&quot;]" data-name="" data-type="Entrance" data-depth="270.622594" data-order="6">
-    <line x1="637.1" y1="270.5" x2="637.1" y2="268.0" stroke="#202927" stroke-width="5" />
-    <line x1="637.1" y1="270.5" x2="637.1" y2="268.0" stroke="#b6a574" stroke-width="2.4" />
+    <line x1="637.1" y1="270.5" x2="637.1" y2="268.0" stroke="#202927" stroke-width="5"/>
+    <line x1="637.1" y1="270.5" x2="637.1" y2="268.0" stroke="#b6a574" stroke-width="2.4"/>
   </g>
   <g data-entrance="yes" data-source="node/11542874196" data-source-file="svg/view-0.svg" data-object="entrance:node/11542874196" data-source-ref="node/11542874196" data-source-selector="[data-source=&quot;node/11542874196&quot;]" data-name="" data-type="Entrance" data-depth="141.683191" data-order="7">
-    <line x1="502.4" y1="141.6" x2="502.4" y2="139.1" stroke="#202927" stroke-width="5" />
-    <line x1="502.4" y1="141.6" x2="502.4" y2="139.1" stroke="#b6a574" stroke-width="2.4" />
+    <line x1="502.4" y1="141.6" x2="502.4" y2="139.1" stroke="#202927" stroke-width="5"/>
+    <line x1="502.4" y1="141.6" x2="502.4" y2="139.1" stroke="#b6a574" stroke-width="2.4"/>
   </g>
   <g data-entrance="yes" data-source="node/11542874197" data-source-file="svg/view-0.svg" data-object="entrance:node/11542874197" data-source-ref="node/11542874197" data-source-selector="[data-source=&quot;node/11542874197&quot;]" data-name="" data-type="Entrance" data-depth="150.21355" data-order="8">
-    <line x1="502.1" y1="150.1" x2="502.1" y2="147.6" stroke="#202927" stroke-width="5" />
-    <line x1="502.1" y1="150.1" x2="502.1" y2="147.6" stroke="#b6a574" stroke-width="2.4" />
+    <line x1="502.1" y1="150.1" x2="502.1" y2="147.6" stroke="#202927" stroke-width="5"/>
+    <line x1="502.1" y1="150.1" x2="502.1" y2="147.6" stroke="#b6a574" stroke-width="2.4"/>
   </g>
   <g data-entrance="yes" data-source="node/11654679703" data-source-file="svg/view-0.svg" data-object="entrance:node/11654679703" data-source-ref="node/11654679703" data-source-selector="[data-source=&quot;node/11654679703&quot;]" data-name="" data-type="Entrance" data-depth="251.201425" data-order="9">
-    <line x1="634.7" y1="251.1" x2="634.7" y2="248.6" stroke="#202927" stroke-width="5" />
-    <line x1="634.7" y1="251.1" x2="634.7" y2="248.6" stroke="#b6a574" stroke-width="2.4" />
+    <line x1="634.7" y1="251.1" x2="634.7" y2="248.6" stroke="#202927" stroke-width="5"/>
+    <line x1="634.7" y1="251.1" x2="634.7" y2="248.6" stroke="#b6a574" stroke-width="2.4"/>
   </g>
   <g data-barrier="fence" data-source="way/1049896267" data-source-file="svg/view-0.svg" data-object="barrier:way/1049896267" data-source-ref="way/1049896267" data-source-selector="[data-source=&quot;way/1049896267&quot;]" data-name="" data-type="Fence" data-depth="169.894773" data-order="10">
-    <line x1="617.4" y1="147.5" x2="617.4" y2="146.0" stroke="#252d2a" stroke-width=".9" />
-    <line x1="630.8" y1="148.1" x2="630.8" y2="146.7" stroke="#252d2a" stroke-width=".9" />
-    <line x1="686.6" y1="152.2" x2="686.6" y2="150.8" stroke="#252d2a" stroke-width=".9" />
-    <line x1="693.0" y1="156.7" x2="693.0" y2="155.2" stroke="#252d2a" stroke-width=".9" />
-    <line x1="676.1" y1="173.5" x2="676.1" y2="172.0" stroke="#252d2a" stroke-width=".9" />
-    <line x1="672.1" y1="177.5" x2="672.1" y2="176.1" stroke="#252d2a" stroke-width=".9" />
-    <line x1="652.5" y1="196.9" x2="652.5" y2="195.5" stroke="#252d2a" stroke-width=".9" />
-    <line x1="611.0" y1="184.4" x2="611.0" y2="182.9" stroke="#252d2a" stroke-width=".9" />
-    <line x1="606.3" y1="192.2" x2="606.3" y2="190.7" stroke="#252d2a" stroke-width=".9" />
-    <path d="M617.43 146.05 L630.83 146.68 L686.55 150.77 L692.97 155.21 L676.11 172.00 L672.06 176.06 L652.49 195.48 L611.04 182.92 L606.33 190.74" fill="none" stroke="#5c665f" stroke-width="1.2" stroke-dasharray="2 1" />
+    <line x1="617.4" y1="147.5" x2="617.4" y2="146.0" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="630.8" y1="148.1" x2="630.8" y2="146.7" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="686.6" y1="152.2" x2="686.6" y2="150.8" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="693.0" y1="156.7" x2="693.0" y2="155.2" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="676.1" y1="173.5" x2="676.1" y2="172.0" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="672.1" y1="177.5" x2="672.1" y2="176.1" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="652.5" y1="196.9" x2="652.5" y2="195.5" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="611.0" y1="184.4" x2="611.0" y2="182.9" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="606.3" y1="192.2" x2="606.3" y2="190.7" stroke="#252d2a" stroke-width=".9"/>
+    <path d="M617.43 146.05 L630.83 146.68 L686.55 150.77 L692.97 155.21 L676.11 172.00 L672.06 176.06 L652.49 195.48 L611.04 182.92 L606.33 190.74" fill="none" stroke="#5c665f" stroke-width="1.2" stroke-dasharray="2 1"/>
   </g>
   <g data-barrier="fence" data-source="way/1151051265" data-source-file="svg/view-0.svg" data-object="barrier:way/1151051265" data-source-ref="way/1151051265" data-source-selector="[data-source=&quot;way/1151051265&quot;]" data-name="" data-type="Fence" data-depth="374.247495" data-order="11">
-    <line x1="743.3" y1="405.2" x2="743.3" y2="403.7" stroke="#252d2a" stroke-width=".9" />
-    <line x1="741.8" y1="408.6" x2="741.8" y2="407.2" stroke="#252d2a" stroke-width=".9" />
-    <line x1="712.9" y1="403.8" x2="712.9" y2="402.4" stroke="#252d2a" stroke-width=".9" />
-    <line x1="710.2" y1="403.4" x2="710.2" y2="401.9" stroke="#252d2a" stroke-width=".9" />
-    <line x1="692.3" y1="365.7" x2="692.3" y2="364.2" stroke="#252d2a" stroke-width=".9" />
-    <line x1="707.5" y1="349.2" x2="707.5" y2="347.7" stroke="#252d2a" stroke-width=".9" />
-    <line x1="709.6" y1="346.9" x2="709.6" y2="345.5" stroke="#252d2a" stroke-width=".9" />
-    <line x1="715.6" y1="340.4" x2="715.6" y2="338.9" stroke="#252d2a" stroke-width=".9" />
-    <line x1="730.7" y1="345.0" x2="730.7" y2="343.5" stroke="#252d2a" stroke-width=".9" />
-    <path d="M743.31 403.70 L741.75 407.18 L712.90 402.38 L710.24 401.90 L692.25 364.23 L707.49 347.74 L709.58 345.48 L715.64 338.93 L730.73 343.55" fill="none" stroke="#5c665f" stroke-width="1.2" stroke-dasharray="2 1" />
+    <line x1="743.3" y1="405.2" x2="743.3" y2="403.7" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="741.8" y1="408.6" x2="741.8" y2="407.2" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="712.9" y1="403.8" x2="712.9" y2="402.4" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="710.2" y1="403.4" x2="710.2" y2="401.9" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="692.3" y1="365.7" x2="692.3" y2="364.2" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="707.5" y1="349.2" x2="707.5" y2="347.7" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="709.6" y1="346.9" x2="709.6" y2="345.5" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="715.6" y1="340.4" x2="715.6" y2="338.9" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="730.7" y1="345.0" x2="730.7" y2="343.5" stroke="#252d2a" stroke-width=".9"/>
+    <path d="M743.31 403.70 L741.75 407.18 L712.90 402.38 L710.24 401.90 L692.25 364.23 L707.49 347.74 L709.58 345.48 L715.64 338.93 L730.73 343.55" fill="none" stroke="#5c665f" stroke-width="1.2" stroke-dasharray="2 1"/>
   </g>
   <g data-barrier="fence" data-source="way/1151051270" data-source-file="svg/view-0.svg" data-object="barrier:way/1151051270" data-source-ref="way/1151051270" data-source-selector="[data-source=&quot;way/1151051270&quot;]" data-name="" data-type="Fence" data-depth="268.264981" data-order="12">
-    <line x1="792.6" y1="299.7" x2="792.6" y2="298.3" stroke="#252d2a" stroke-width=".9" />
-    <line x1="768.5" y1="291.9" x2="768.5" y2="290.4" stroke="#252d2a" stroke-width=".9" />
-    <line x1="765.5" y1="288.5" x2="765.5" y2="287.1" stroke="#252d2a" stroke-width=".9" />
-    <line x1="766.4" y1="284.4" x2="766.4" y2="282.9" stroke="#252d2a" stroke-width=".9" />
-    <line x1="787.9" y1="261.3" x2="787.9" y2="259.8" stroke="#252d2a" stroke-width=".9" />
-    <line x1="793.3" y1="252.6" x2="793.3" y2="251.1" stroke="#252d2a" stroke-width=".9" />
-    <line x1="846.3" y1="199.4" x2="846.3" y2="198.0" stroke="#252d2a" stroke-width=".9" />
-    <path d="M792.63 298.26 L768.51 290.44 L765.49 287.07 L766.42 282.94 L787.85 259.84 L793.34 251.10 L846.30 197.98" fill="none" stroke="#5c665f" stroke-width="1.2" stroke-dasharray="2 1" />
+    <line x1="792.6" y1="299.7" x2="792.6" y2="298.3" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="768.5" y1="291.9" x2="768.5" y2="290.4" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="765.5" y1="288.5" x2="765.5" y2="287.1" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="766.4" y1="284.4" x2="766.4" y2="282.9" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="787.9" y1="261.3" x2="787.9" y2="259.8" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="793.3" y1="252.6" x2="793.3" y2="251.1" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="846.3" y1="199.4" x2="846.3" y2="198.0" stroke="#252d2a" stroke-width=".9"/>
+    <path d="M792.63 298.26 L768.51 290.44 L765.49 287.07 L766.42 282.94 L787.85 259.84 L793.34 251.10 L846.30 197.98" fill="none" stroke="#5c665f" stroke-width="1.2" stroke-dasharray="2 1"/>
   </g>
   <g data-barrier="fence" data-source="way/1163811084" data-source-file="svg/view-0.svg" data-object="barrier:way/1163811084" data-source-ref="way/1163811084" data-source-selector="[data-source=&quot;way/1163811084&quot;]" data-name="" data-type="Fence" data-depth="134.027247" data-order="13">
-    <line x1="492.3" y1="132.8" x2="492.3" y2="131.4" stroke="#252d2a" stroke-width=".9" />
-    <line x1="502.4" y1="135.2" x2="502.4" y2="133.8" stroke="#252d2a" stroke-width=".9" />
-    <path d="M492.35 131.35 L502.41 133.78" fill="none" stroke="#5c665f" stroke-width="1.2" stroke-dasharray="2 1" />
+    <line x1="492.3" y1="132.8" x2="492.3" y2="131.4" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="502.4" y1="135.2" x2="502.4" y2="133.8" stroke="#252d2a" stroke-width=".9"/>
+    <path d="M492.35 131.35 L502.41 133.78" fill="none" stroke="#5c665f" stroke-width="1.2" stroke-dasharray="2 1"/>
   </g>
   <g data-barrier="fence" data-source="way/1163811085" data-source-file="svg/view-0.svg" data-object="barrier:way/1163811085" data-source-ref="way/1163811085" data-source-selector="[data-source=&quot;way/1163811085&quot;]" data-name="" data-type="Fence" data-depth="153.716284" data-order="14">
-    <line x1="478.6" y1="140.3" x2="478.6" y2="138.8" stroke="#252d2a" stroke-width=".9" />
-    <line x1="487.3" y1="154.3" x2="487.3" y2="152.8" stroke="#252d2a" stroke-width=".9" />
-    <line x1="488.3" y1="155.9" x2="488.3" y2="154.4" stroke="#252d2a" stroke-width=".9" />
-    <line x1="489.3" y1="157.4" x2="489.3" y2="156.0" stroke="#252d2a" stroke-width=".9" />
-    <line x1="491.3" y1="160.7" x2="491.3" y2="159.2" stroke="#252d2a" stroke-width=".9" />
-    <path d="M478.58 138.82 L487.32 152.85 L488.30 154.42 L489.28 155.99 L491.28 159.21" fill="none" stroke="#5c665f" stroke-width="1.2" stroke-dasharray="2 1" />
+    <line x1="478.6" y1="140.3" x2="478.6" y2="138.8" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="487.3" y1="154.3" x2="487.3" y2="152.8" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="488.3" y1="155.9" x2="488.3" y2="154.4" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="489.3" y1="157.4" x2="489.3" y2="156.0" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="491.3" y1="160.7" x2="491.3" y2="159.2" stroke="#252d2a" stroke-width=".9"/>
+    <path d="M478.58 138.82 L487.32 152.85 L488.30 154.42 L489.28 155.99 L491.28 159.21" fill="none" stroke="#5c665f" stroke-width="1.2" stroke-dasharray="2 1"/>
   </g>
   <g data-barrier="wall" data-source="way/1180201394" data-source-file="svg/view-0.svg" data-object="barrier:way/1180201394" data-source-ref="way/1180201394" data-source-selector="[data-source=&quot;way/1180201394&quot;]" data-name="" data-type="Wall" data-depth="449.060682" data-order="15">
-    <line x1="486.3" y1="379.7" x2="486.3" y2="378.6" stroke="#252d2a" stroke-width=".9" />
-    <line x1="472.9" y1="385.4" x2="472.9" y2="384.3" stroke="#252d2a" stroke-width=".9" />
-    <line x1="469.6" y1="388.4" x2="469.6" y2="387.4" stroke="#252d2a" stroke-width=".9" />
-    <line x1="423.0" y1="431.9" x2="423.0" y2="430.8" stroke="#252d2a" stroke-width=".9" />
-    <line x1="313.8" y1="533.2" x2="313.8" y2="532.1" stroke="#252d2a" stroke-width=".9" />
-    <line x1="267.9" y1="575.8" x2="267.9" y2="574.7" stroke="#252d2a" stroke-width=".9" />
-    <path d="M486.26 378.60 L472.87 384.32 L469.59 387.36 L422.99 430.83 L313.75 532.14 L267.94 574.69" fill="none" stroke="#5c665f" stroke-width="2" stroke-dasharray="none" />
+    <line x1="486.3" y1="379.7" x2="486.3" y2="378.6" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="472.9" y1="385.4" x2="472.9" y2="384.3" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="469.6" y1="388.4" x2="469.6" y2="387.4" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="423.0" y1="431.9" x2="423.0" y2="430.8" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="313.8" y1="533.2" x2="313.8" y2="532.1" stroke="#252d2a" stroke-width=".9"/>
+    <line x1="267.9" y1="575.8" x2="267.9" y2="574.7" stroke="#252d2a" stroke-width=".9"/>
+    <path d="M486.26 378.60 L472.87 384.32 L469.59 387.36 L422.99 430.83 L313.75 532.14 L267.94 574.69" fill="none" stroke="#5c665f" stroke-width="2" stroke-dasharray="none"/>
   </g>
   <g data-tree="node/4154789224" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789224" data-source-ref="node/4154789224" data-source-selector="[data-tree=&quot;node/4154789224&quot;]" data-name="" data-type="Tree" data-depth="183.845512" data-order="16">
-    <ellipse cx="371.9" cy="186.8" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="367.9" y1="183.8" x2="367.9" y2="178.4" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="367.9" cy="178.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="371.9" cy="186.8" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="367.9" y1="183.8" x2="367.9" y2="178.4" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="367.9" cy="178.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789225" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789225" data-source-ref="node/4154789225" data-source-selector="[data-tree=&quot;node/4154789225&quot;]" data-name="" data-type="Tree" data-depth="196.445432" data-order="17">
-    <ellipse cx="349.8" cy="199.4" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="345.8" y1="196.4" x2="345.8" y2="190.9" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="345.8" cy="190.9" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="349.8" cy="199.4" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="345.8" y1="196.4" x2="345.8" y2="190.9" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="345.8" cy="190.9" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789226" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789226" data-source-ref="node/4154789226" data-source-selector="[data-tree=&quot;node/4154789226&quot;]" data-name="" data-type="Tree" data-depth="196.918742" data-order="18">
-    <ellipse cx="392.5" cy="199.9" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="388.5" y1="196.9" x2="388.5" y2="191.4" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="388.5" cy="191.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="392.5" cy="199.9" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="388.5" y1="196.9" x2="388.5" y2="191.4" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="388.5" cy="191.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789227" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789227" data-source-ref="node/4154789227" data-source-selector="[data-tree=&quot;node/4154789227&quot;]" data-name="" data-type="Tree" data-depth="209.066176" data-order="19">
-    <ellipse cx="369.6" cy="212.1" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="365.6" y1="209.1" x2="365.6" y2="203.4" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="365.6" cy="203.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="369.6" cy="212.1" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="365.6" y1="209.1" x2="365.6" y2="203.4" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="365.6" cy="203.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789228" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789228" data-source-ref="node/4154789228" data-source-selector="[data-tree=&quot;node/4154789228&quot;]" data-name="" data-type="Tree" data-depth="207.486318" data-order="20">
-    <ellipse cx="409.1" cy="210.5" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="405.1" y1="207.5" x2="405.1" y2="201.9" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="405.1" cy="201.9" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="409.1" cy="210.5" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="405.1" y1="207.5" x2="405.1" y2="201.9" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="405.1" cy="201.9" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789229" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789229" data-source-ref="node/4154789229" data-source-selector="[data-tree=&quot;node/4154789229&quot;]" data-name="" data-type="Tree" data-depth="219.936533" data-order="21">
-    <ellipse cx="386.0" cy="222.9" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="382.0" y1="219.9" x2="382.0" y2="214.2" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="382.0" cy="214.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="386.0" cy="222.9" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="382.0" y1="219.9" x2="382.0" y2="214.2" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="382.0" cy="214.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789230" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789230" data-source-ref="node/4154789230" data-source-selector="[data-tree=&quot;node/4154789230&quot;]" data-name="" data-type="Tree" data-depth="228.913363" data-order="22">
-    <ellipse cx="444.2" cy="231.9" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="440.2" y1="228.9" x2="440.2" y2="223.1" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="440.2" cy="223.1" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="444.2" cy="231.9" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="440.2" y1="228.9" x2="440.2" y2="223.1" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="440.2" cy="223.1" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789231" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789231" data-source-ref="node/4154789231" data-source-selector="[data-tree=&quot;node/4154789231&quot;]" data-name="" data-type="Tree" data-depth="242.17145" data-order="23">
-    <ellipse cx="419.6" cy="245.2" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="415.6" y1="242.2" x2="415.6" y2="236.2" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="415.6" cy="236.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="419.6" cy="245.2" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="415.6" y1="242.2" x2="415.6" y2="236.2" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="415.6" cy="236.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789232" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789232" data-source-ref="node/4154789232" data-source-selector="[data-tree=&quot;node/4154789232&quot;]" data-name="" data-type="Tree" data-depth="239.991197" data-order="24">
-    <ellipse cx="462.3" cy="243.0" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="458.3" y1="240.0" x2="458.3" y2="234.1" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="458.3" cy="234.1" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="462.3" cy="243.0" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="458.3" y1="240.0" x2="458.3" y2="234.1" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="458.3" cy="234.1" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789233" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789233" data-source-ref="node/4154789233" data-source-selector="[data-tree=&quot;node/4154789233&quot;]" data-name="" data-type="Tree" data-depth="254.637745" data-order="25">
-    <ellipse cx="438.0" cy="257.6" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="434.0" y1="254.6" x2="434.0" y2="248.6" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="434.0" cy="248.6" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="438.0" cy="257.6" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="434.0" y1="254.6" x2="434.0" y2="248.6" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="434.0" cy="248.6" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789234" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789234" data-source-ref="node/4154789234" data-source-selector="[data-tree=&quot;node/4154789234&quot;]" data-name="" data-type="Tree" data-depth="266.714864" data-order="26">
-    <ellipse cx="459.1" cy="269.7" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="455.1" y1="266.7" x2="455.1" y2="260.6" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="455.1" cy="260.6" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="459.1" cy="269.7" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="455.1" y1="266.7" x2="455.1" y2="260.6" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="455.1" cy="260.6" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789235" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789235" data-source-ref="node/4154789235" data-source-selector="[data-tree=&quot;node/4154789235&quot;]" data-name="" data-type="Tree" data-depth="253.337455" data-order="27">
-    <ellipse cx="484.0" cy="256.3" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="480.0" y1="253.3" x2="480.0" y2="247.4" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="480.0" cy="247.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="484.0" cy="256.3" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="480.0" y1="253.3" x2="480.0" y2="247.4" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="480.0" cy="247.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789236" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789236" data-source-ref="node/4154789236" data-source-selector="[data-tree=&quot;node/4154789236&quot;]" data-name="" data-type="Tree" data-depth="269.035064" data-order="28">
-    <ellipse cx="509.8" cy="272.0" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="505.8" y1="269.0" x2="505.8" y2="262.9" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="505.8" cy="262.9" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="509.8" cy="272.0" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="505.8" y1="269.0" x2="505.8" y2="262.9" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="505.8" cy="262.9" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789237" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789237" data-source-ref="node/4154789237" data-source-selector="[data-tree=&quot;node/4154789237&quot;]" data-name="" data-type="Tree" data-depth="283.453737" data-order="29">
-    <ellipse cx="486.7" cy="286.5" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="482.7" y1="283.5" x2="482.7" y2="277.2" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="482.7" cy="277.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="486.7" cy="286.5" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="482.7" y1="283.5" x2="482.7" y2="277.2" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="482.7" cy="277.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789242" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789242" data-source-ref="node/4154789242" data-source-selector="[data-tree=&quot;node/4154789242&quot;]" data-name="" data-type="Tree" data-depth="287.197528" data-order="30">
-    <ellipse cx="493.3" cy="290.2" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="489.3" y1="287.2" x2="489.3" y2="280.9" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="489.3" cy="280.9" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="493.3" cy="290.2" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="489.3" y1="287.2" x2="489.3" y2="280.9" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="489.3" cy="280.9" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789243" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789243" data-source-ref="node/4154789243" data-source-selector="[data-tree=&quot;node/4154789243&quot;]" data-name="" data-type="Tree" data-depth="294.394196" data-order="31">
-    <ellipse cx="485.8" cy="297.4" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="481.8" y1="294.4" x2="481.8" y2="288.0" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="481.8" cy="288.0" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="485.8" cy="297.4" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="481.8" y1="294.4" x2="481.8" y2="288.0" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="481.8" cy="288.0" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789244" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789244" data-source-ref="node/4154789244" data-source-selector="[data-tree=&quot;node/4154789244&quot;]" data-name="" data-type="Tree" data-depth="302.296622" data-order="32">
-    <ellipse cx="478.1" cy="305.3" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="474.1" y1="302.3" x2="474.1" y2="295.9" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="474.1" cy="295.9" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="478.1" cy="305.3" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="474.1" y1="302.3" x2="474.1" y2="295.9" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="474.1" cy="295.9" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789245" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789245" data-source-ref="node/4154789245" data-source-selector="[data-tree=&quot;node/4154789245&quot;]" data-name="" data-type="Tree" data-depth="295.548432" data-order="33">
-    <ellipse cx="512.7" cy="298.5" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="508.7" y1="295.5" x2="508.7" y2="289.2" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="508.7" cy="289.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="512.7" cy="298.5" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="508.7" y1="295.5" x2="508.7" y2="289.2" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="508.7" cy="289.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789246" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789246" data-source-ref="node/4154789246" data-source-selector="[data-tree=&quot;node/4154789246&quot;]" data-name="" data-type="Tree" data-depth="302.035358" data-order="34">
-    <ellipse cx="506.9" cy="305.0" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="502.9" y1="302.0" x2="502.9" y2="295.6" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="502.9" cy="295.6" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="506.9" cy="305.0" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="502.9" y1="302.0" x2="502.9" y2="295.6" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="502.9" cy="295.6" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789247" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789247" data-source-ref="node/4154789247" data-source-selector="[data-tree=&quot;node/4154789247&quot;]" data-name="" data-type="Tree" data-depth="307.57537" data-order="35">
-    <ellipse cx="501.2" cy="310.6" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="497.2" y1="307.6" x2="497.2" y2="301.1" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="497.2" cy="301.1" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="501.2" cy="310.6" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="497.2" y1="307.6" x2="497.2" y2="301.1" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="497.2" cy="301.1" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789248" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789248" data-source-ref="node/4154789248" data-source-selector="[data-tree=&quot;node/4154789248&quot;]" data-name="" data-type="Tree" data-depth="291.093381" data-order="36">
-    <ellipse cx="503.8" cy="294.1" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="499.8" y1="291.1" x2="499.8" y2="284.8" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="499.8" cy="284.8" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="503.8" cy="294.1" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="499.8" y1="291.1" x2="499.8" y2="284.8" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="499.8" cy="284.8" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789249" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789249" data-source-ref="node/4154789249" data-source-selector="[data-tree=&quot;node/4154789249&quot;]" data-name="" data-type="Tree" data-depth="304.837352" data-order="37">
-    <ellipse cx="490.9" cy="307.8" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="486.9" y1="304.8" x2="486.9" y2="298.4" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="486.9" cy="298.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="490.9" cy="307.8" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="486.9" y1="304.8" x2="486.9" y2="298.4" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="486.9" cy="298.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789250" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789250" data-source-ref="node/4154789250" data-source-selector="[data-tree=&quot;node/4154789250&quot;]" data-name="" data-type="Tree" data-depth="277.390966" data-order="38">
-    <ellipse cx="522.6" cy="280.4" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="518.6" y1="277.4" x2="518.6" y2="271.2" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="518.6" cy="271.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="522.6" cy="280.4" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="518.6" y1="277.4" x2="518.6" y2="271.2" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="518.6" cy="271.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789251" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/4154789251" data-source-ref="node/4154789251" data-source-selector="[data-tree=&quot;node/4154789251&quot;]" data-name="" data-type="Tree" data-depth="284.847771" data-order="39">
-    <ellipse cx="536.3" cy="287.8" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="532.3" y1="284.8" x2="532.3" y2="278.6" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="532.3" cy="278.6" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="536.3" cy="287.8" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="532.3" y1="284.8" x2="532.3" y2="278.6" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="532.3" cy="278.6" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/4154789259" data-source-file="svg/objects-view-0.svg" data-object="tree:node/4154789259" data-source-ref="node/4154789259" data-source-selector="[data-tree=&quot;node/4154789259&quot;]" data-name="" data-type="Tree" data-depth="314.716858" data-order="42" data-tree-variant="tree-3">
-    <image href="../assets/trees/tree-3/view-0.png" x="578.979695" y="302.593952" width="11.631491" height="12.677454" />
+    <image href="../assets/trees/tree-3/view-0.png" x="578.979695" y="302.593952" width="11.631491" height="12.677454"/>
   </g>
   <g data-tree="node/4154789261" data-source-file="svg/objects-view-0.svg" data-object="tree:node/4154789261" data-source-ref="node/4154789261" data-source-selector="[data-tree=&quot;node/4154789261&quot;]" data-name="" data-type="Tree" data-depth="319.485393" data-order="44" data-tree-variant="tree-3">
-    <image href="../assets/trees/tree-3/view-0.png" x="574.179695" y="307.393952" width="11.631491" height="12.677454" />
+    <image href="../assets/trees/tree-3/view-0.png" x="574.179695" y="307.393952" width="11.631491" height="12.677454"/>
   </g>
   <g data-tree="node/4154789263" data-source-file="svg/objects-view-0.svg" data-object="tree:node/4154789263" data-source-ref="node/4154789263" data-source-selector="[data-tree=&quot;node/4154789263&quot;]" data-name="" data-type="Tree" data-depth="315.526369" data-order="46" data-tree-variant="tree-12">
-    <image href="../assets/trees/tree-12/view-0.png" x="564.777665" y="297.708043" width="12.113673" height="18.17051" />
+    <image href="../assets/trees/tree-12/view-0.png" x="564.777665" y="297.708043" width="12.113673" height="18.17051"/>
   </g>
   <g data-tree="node/4154789265" data-source-file="svg/objects-view-0.svg" data-object="tree:node/4154789265" data-source-ref="node/4154789265" data-source-selector="[data-tree=&quot;node/4154789265&quot;]" data-name="" data-type="Tree" data-depth="317.892877" data-order="48" data-tree-variant="tree-3">
-    <image href="../assets/trees/tree-3/view-0.png" x="562.979695" y="305.793952" width="11.631491" height="12.677454" />
+    <image href="../assets/trees/tree-3/view-0.png" x="562.979695" y="305.793952" width="11.631491" height="12.677454"/>
   </g>
   <g data-tree="node/4154789268" data-source-file="svg/objects-view-0.svg" data-object="tree:node/4154789268" data-source-ref="node/4154789268" data-source-selector="[data-tree=&quot;node/4154789268&quot;]" data-name="" data-type="Tree" data-depth="339.054377" data-order="51" data-tree-variant="tree-1">
-    <image href="../assets/trees/tree-1/view-0.png" x="540.390068" y="327.109724" width="13.604153" height="12.373055" />
+    <image href="../assets/trees/tree-1/view-0.png" x="540.390068" y="327.109724" width="13.604153" height="12.373055"/>
   </g>
   <g data-tree="node/4154789274" data-source-file="svg/objects-view-0.svg" data-object="tree:node/4154789274" data-source-ref="node/4154789274" data-source-selector="[data-tree=&quot;node/4154789274&quot;]" data-name="" data-type="Tree" data-depth="336.602131" data-order="57" data-tree-variant="tree-1">
-    <image href="../assets/trees/tree-1/view-0.png" x="545.495034" y="330.604862" width="6.802076" height="6.186527" />
+    <image href="../assets/trees/tree-1/view-0.png" x="545.495034" y="330.604862" width="6.802076" height="6.186527"/>
   </g>
   <g data-tree="node/10823759781" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/10823759781" data-source-ref="node/10823759781" data-source-selector="[data-tree=&quot;node/10823759781&quot;]" data-name="" data-type="Tree" data-depth="136.970994" data-order="58">
-    <ellipse cx="501.2" cy="140.0" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="497.2" y1="137.0" x2="497.2" y2="132.1" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="497.2" cy="132.1" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="501.2" cy="140.0" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="497.2" y1="137.0" x2="497.2" y2="132.1" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="497.2" cy="132.1" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/10823759782" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/10823759782" data-source-ref="node/10823759782" data-source-selector="[data-tree=&quot;node/10823759782&quot;]" data-name="" data-type="Tree" data-depth="142.337814" data-order="59">
-    <ellipse cx="486.9" cy="145.3" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="482.9" y1="142.3" x2="482.9" y2="137.4" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="482.9" cy="137.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="486.9" cy="145.3" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="482.9" y1="142.3" x2="482.9" y2="137.4" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="482.9" cy="137.4" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/10823759783" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/10823759783" data-source-ref="node/10823759783" data-source-selector="[data-tree=&quot;node/10823759783&quot;]" data-name="" data-type="Tree" data-depth="149.62928" data-order="60">
-    <ellipse cx="491.6" cy="152.6" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="487.6" y1="149.6" x2="487.6" y2="144.6" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="487.6" cy="144.6" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="491.6" cy="152.6" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="487.6" y1="149.6" x2="487.6" y2="144.6" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="487.6" cy="144.6" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/10823759784" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/10823759784" data-source-ref="node/10823759784" data-source-selector="[data-tree=&quot;node/10823759784&quot;]" data-name="" data-type="Tree" data-depth="153.52697" data-order="61">
-    <ellipse cx="494.0" cy="156.5" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="490.0" y1="153.5" x2="490.0" y2="148.5" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="490.0" cy="148.5" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="494.0" cy="156.5" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="490.0" y1="153.5" x2="490.0" y2="148.5" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="490.0" cy="148.5" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/10823759785" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/10823759785" data-source-ref="node/10823759785" data-source-selector="[data-tree=&quot;node/10823759785&quot;]" data-name="" data-type="Tree" data-depth="137.072239" data-order="62">
-    <ellipse cx="496.7" cy="140.1" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="492.7" y1="137.1" x2="492.7" y2="132.2" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="492.7" cy="132.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="496.7" cy="140.1" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="492.7" y1="137.1" x2="492.7" y2="132.2" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="492.7" cy="132.2" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/11379709968" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/11379709968" data-source-ref="node/11379709968" data-source-selector="[data-tree=&quot;node/11379709968&quot;]" data-name="" data-type="Tree" data-depth="424.891593" data-order="63">
-    <ellipse cx="13.3" cy="427.9" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="9.3" y1="424.9" x2="9.3" y2="416.8" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="9.3" cy="416.8" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="13.3" cy="427.9" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="9.3" y1="424.9" x2="9.3" y2="416.8" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="9.3" cy="416.8" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/11379709974" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/11379709974" data-source-ref="node/11379709974" data-source-selector="[data-tree=&quot;node/11379709974&quot;]" data-name="" data-type="Tree" data-depth="415.337038" data-order="64">
-    <ellipse cx="-2.1" cy="418.3" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="-6.1" y1="415.3" x2="-6.1" y2="407.3" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="-6.1" cy="407.3" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="-2.1" cy="418.3" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="-6.1" y1="415.3" x2="-6.1" y2="407.3" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="-6.1" cy="407.3" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/11414343087" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/11414343087" data-source-ref="node/11414343087" data-source-selector="[data-tree=&quot;node/11414343087&quot;]" data-name="" data-type="Tree" data-depth="380.602734" data-order="65">
-    <ellipse cx="28.5" cy="383.6" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="24.5" y1="380.6" x2="24.5" y2="373.0" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="24.5" cy="373.0" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="28.5" cy="383.6" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="24.5" y1="380.6" x2="24.5" y2="373.0" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="24.5" cy="373.0" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/11414343088" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/11414343088" data-source-ref="node/11414343088" data-source-selector="[data-tree=&quot;node/11414343088&quot;]" data-name="" data-type="Tree" data-depth="383.225118" data-order="66">
-    <ellipse cx="24.9" cy="386.2" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="20.9" y1="383.2" x2="20.9" y2="375.5" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="20.9" cy="375.5" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="24.9" cy="386.2" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="20.9" y1="383.2" x2="20.9" y2="375.5" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="20.9" cy="375.5" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/11414343089" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/11414343089" data-source-ref="node/11414343089" data-source-selector="[data-tree=&quot;node/11414343089&quot;]" data-name="" data-type="Tree" data-depth="385.842795" data-order="67">
-    <ellipse cx="21.2" cy="388.8" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="17.2" y1="385.8" x2="17.2" y2="378.1" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="17.2" cy="378.1" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="21.2" cy="388.8" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="17.2" y1="385.8" x2="17.2" y2="378.1" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="17.2" cy="378.1" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/11414343090" opacity=".58" data-source-file="svg/view-0.svg" data-object="tree:node/11414343090" data-source-ref="node/11414343090" data-source-selector="[data-tree=&quot;node/11414343090&quot;]" data-name="" data-type="Tree" data-depth="388.46237" data-order="68">
-    <ellipse cx="17.6" cy="391.5" rx="6" ry="2.4" fill="#18221c" opacity=".35" />
-    <line x1="13.6" y1="388.5" x2="13.6" y2="380.7" stroke="#4e3e31" stroke-width="2" />
-    <circle cx="13.6" cy="380.7" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6" />
+    <ellipse cx="17.6" cy="391.5" rx="6" ry="2.4" fill="#18221c" opacity=".35"/>
+    <line x1="13.6" y1="388.5" x2="13.6" y2="380.7" stroke="#4e3e31" stroke-width="2"/>
+    <circle cx="13.6" cy="380.7" r="5.8" fill="#526d50" stroke="#79876b" stroke-width=".6"/>
   </g>
   <g data-tree="node/13654524985" data-source-file="svg/objects-view-0.svg" data-object="tree:node/13654524985" data-source-ref="node/13654524985" data-source-selector="[data-tree=&quot;node/13654524985&quot;]" data-name="" data-type="Tree" data-depth="224.170368" data-order="69" data-tree-variant="tree-6">
-    <image href="../assets/trees/tree-6/view-0.png" x="652.552473" y="213.205837" width="7.550652" height="11.325978" />
+    <image href="../assets/trees/tree-6/view-0.png" x="652.552473" y="213.205837" width="7.550652" height="11.325978"/>
   </g>
   <g data-tree="node/13654524986" data-source-file="svg/objects-view-0.svg" data-object="tree:node/13654524986" data-source-ref="node/13654524986" data-source-selector="[data-tree=&quot;node/13654524986&quot;]" data-name="" data-type="Tree" data-depth="228.65136" data-order="70" data-tree-variant="tree-6">
-    <image href="../assets/trees/tree-6/view-0.png" x="647.952473" y="217.705837" width="7.550652" height="11.325978" />
+    <image href="../assets/trees/tree-6/view-0.png" x="647.952473" y="217.705837" width="7.550652" height="11.325978"/>
   </g>
   <g data-tree="node/13654524987" data-source-file="svg/objects-view-0.svg" data-object="tree:node/13654524987" data-source-ref="node/13654524987" data-source-selector="[data-tree=&quot;node/13654524987&quot;]" data-name="" data-type="Tree" data-depth="232.576059" data-order="71" data-tree-variant="tree-6">
-    <image href="../assets/trees/tree-6/view-0.png" x="643.952473" y="221.605837" width="7.550652" height="11.325978" />
+    <image href="../assets/trees/tree-6/view-0.png" x="643.952473" y="221.605837" width="7.550652" height="11.325978"/>
   </g>
   <g data-tree="node/13654524988" data-source-file="svg/objects-view-0.svg" data-object="tree:node/13654524988" data-source-ref="node/13654524988" data-source-selector="[data-tree=&quot;node/13654524988&quot;]" data-name="" data-type="Tree" data-depth="236.83679" data-order="72" data-tree-variant="tree-6">
-    <image href="../assets/trees/tree-6/view-0.png" x="639.652473" y="225.805837" width="7.550652" height="11.325978" />
+    <image href="../assets/trees/tree-6/view-0.png" x="639.652473" y="225.805837" width="7.550652" height="11.325978"/>
   </g>
   <g data-tree="node/13654524991" data-source-file="svg/objects-view-0.svg" data-object="tree:node/13654524991" data-source-ref="node/13654524991" data-source-selector="[data-tree=&quot;node/13654524991&quot;]" data-name="" data-type="Tree" data-depth="272.962786" data-order="73" data-tree-variant="tree-6">
-    <image href="../assets/trees/tree-6/view-0.png" x="602.052473" y="262.005837" width="7.550652" height="11.325978" />
+    <image href="../assets/trees/tree-6/view-0.png" x="602.052473" y="262.005837" width="7.550652" height="11.325978"/>
   </g>
   <g data-tree="node/13654524992" data-source-file="svg/objects-view-0.svg" data-object="tree:node/13654524992" data-source-ref="node/13654524992" data-source-selector="[data-tree=&quot;node/13654524992&quot;]" data-name="" data-type="Tree" data-depth="276.66326" data-order="74" data-tree-variant="tree-6">
-    <image href="../assets/trees/tree-6/view-0.png" x="598.152473" y="265.705837" width="7.550652" height="11.325978" />
+    <image href="../assets/trees/tree-6/view-0.png" x="598.152473" y="265.705837" width="7.550652" height="11.325978"/>
   </g>
   <g data-tree="node/13654524993" data-source-file="svg/objects-view-0.svg" data-object="tree:node/13654524993" data-source-ref="node/13654524993" data-source-selector="[data-tree=&quot;node/13654524993&quot;]" data-name="" data-type="Tree" data-depth="280.636243" data-order="75" data-tree-variant="tree-6">
-    <image href="../assets/trees/tree-6/view-0.png" x="593.952473" y="269.605837" width="7.550652" height="11.325978" />
+    <image href="../assets/trees/tree-6/view-0.png" x="593.952473" y="269.605837" width="7.550652" height="11.325978"/>
   </g>
   <g data-tree="node/13654524994" data-source-file="svg/objects-view-0.svg" data-object="tree:node/13654524994" data-source-ref="node/13654524994" data-source-selector="[data-tree=&quot;node/13654524994&quot;]" data-name="" data-type="Tree" data-depth="284.98247" data-order="76" data-tree-variant="tree-6">
-    <image href="../assets/trees/tree-6/view-0.png" x="589.352473" y="274.005837" width="7.550652" height="11.325978" />
+    <image href="../assets/trees/tree-6/view-0.png" x="589.352473" y="274.005837" width="7.550652" height="11.325978"/>
   </g>
   <g data-tree="node/13654524995" data-source-file="svg/objects-view-0.svg" data-object="tree:node/13654524995" data-source-ref="node/13654524995" data-source-selector="[data-tree=&quot;node/13654524995&quot;]" data-name="" data-type="Tree" data-depth="289.734074" data-order="77" data-tree-variant="tree-6">
-    <image href="../assets/trees/tree-6/view-0.png" x="584.352473" y="278.705837" width="7.550652" height="11.325978" />
+    <image href="../assets/trees/tree-6/view-0.png" x="584.352473" y="278.705837" width="7.550652" height="11.325978"/>
   </g>
   <g data-tree="node/13654524996" data-source-file="svg/objects-view-0.svg" data-object="tree:node/13654524996" data-source-ref="node/13654524996" data-source-selector="[data-tree=&quot;node/13654524996&quot;]" data-name="" data-type="Tree" data-depth="293.815309" data-order="78" data-tree-variant="tree-11">
-    <image href="../assets/trees/tree-11/view-0.png" x="577.746231" y="283.931787" width="11.150237" height="10.0369" />
+    <image href="../assets/trees/tree-11/view-0.png" x="577.746231" y="283.931787" width="11.150237" height="10.0369"/>
   </g>
   <g data-prop="node/258987961" data-transport-stop="node/258987961" data-source-file="svg/view-0.svg" data-object="prop:node/258987961" data-source-ref="node/258987961" data-source-selector="[data-prop=&quot;node/258987961&quot;]" data-name="Cluj Napoca" data-type="Transport stop" data-depth="275.055071" data-order="79">
-    <line x1="670.7" y1="277.1" x2="670.7" y2="272.1" stroke="#303b38" stroke-width="1" />
-    <circle cx="670.7" cy="271.1" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="670.7" y1="277.1" x2="670.7" y2="272.1" stroke="#303b38" stroke-width="1"/>
+    <circle cx="670.7" cy="271.1" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/429913389" data-transport-stop="node/429913389" data-source-file="svg/view-0.svg" data-object="prop:node/429913389" data-source-ref="node/429913389" data-source-selector="[data-prop=&quot;node/429913389&quot;]" data-name="Piața Gării Vechi" data-type="Transport stop" data-depth="347.334642" data-order="80">
-    <line x1="495.0" y1="349.4" x2="495.0" y2="344.4" stroke="#303b38" stroke-width="1" />
-    <circle cx="495.0" cy="343.4" r="1.8" fill="#a54d43" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="495.0" y1="349.4" x2="495.0" y2="344.4" stroke="#303b38" stroke-width="1"/>
+    <circle cx="495.0" cy="343.4" r="1.8" fill="#a54d43" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/429919283" data-source-file="sources/art/signals.json" data-object="prop:node/429919283" data-source-ref="node/429919283" data-source-selector="[data-object=&quot;prop:node/429919283&quot;]" data-name="Semafor Piața Gării" data-type="Traffic light" data-depth="340.7467126162433" data-order="81" data-authored-prop="signals.json" data-center="352.1084560658984 242.82048874939414">
-    <image href="../assets/props/signals/cluj-traffic-light/az315-el35.264.png" width="287" height="1453" transform="matrix(0.0023973160 0.0000000000 0.0000000000 0.0023973748 494.0073105767 337.3112745919)" />
+    <image href="../assets/props/signals/cluj-traffic-light/az315-el35.264.png" width="287" height="1453" transform="matrix(0.0023973160 0.0000000000 0.0000000000 0.0023973748 494.0073105767 337.3112745919)"/>
   </g>
   <g data-prop="node/828649165" data-transport-stop="node/828649165" data-source-file="svg/view-0.svg" data-object="prop:node/828649165" data-source-ref="node/828649165" data-source-selector="[data-prop=&quot;node/828649165&quot;]" data-name="Piața Gării Noi" data-type="Transport stop" data-depth="254.217026" data-order="82">
-    <line x1="592.8" y1="256.2" x2="592.8" y2="251.2" stroke="#303b38" stroke-width="1" />
-    <circle cx="592.8" cy="250.2" r="1.8" fill="#a54d43" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="592.8" y1="256.2" x2="592.8" y2="251.2" stroke="#303b38" stroke-width="1"/>
+    <circle cx="592.8" cy="250.2" r="1.8" fill="#a54d43" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/1693837265" data-transport-stop="node/1693837265" data-source-file="svg/view-0.svg" data-object="prop:node/1693837265" data-source-ref="node/1693837265" data-source-selector="[data-prop=&quot;node/1693837265&quot;]" data-name="Piața Gării Nord" data-type="Transport stop" data-depth="268.275827" data-order="83">
-    <line x1="574.2" y1="270.3" x2="574.2" y2="265.3" stroke="#303b38" stroke-width="1" />
-    <circle cx="574.2" cy="264.3" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="574.2" y1="270.3" x2="574.2" y2="265.3" stroke="#303b38" stroke-width="1"/>
+    <circle cx="574.2" cy="264.3" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/2252377460" data-source-file="sources/art/signals.json" data-object="prop:node/2252377460" data-source-ref="node/2252377460" data-source-selector="[data-object=&quot;prop:node/2252377460&quot;]" data-name="Semnal feroviar" data-type="Railway signal" data-depth="302.78353681557695" data-order="84" data-authored-prop="signals.json" data-center="237.64193206671533 280.29340343843353">
-    <image href="../assets/props/signals/signal-assembled/az225-el35.264.png" width="334" height="1818" transform="matrix(0.0036283764 0.0000000000 0.0000000000 0.0035300111 621.9626577744 296.7387811338)" />
+    <image href="../assets/props/signals/signal-assembled/az225-el35.264.png" width="334" height="1818" transform="matrix(0.0036283764 0.0000000000 0.0000000000 0.0035300111 621.9626577744 296.7387811338)"/>
   </g>
   <g data-prop="node/2252377473" data-source-file="sources/art/signals.json" data-object="prop:node/2252377473" data-source-ref="node/2252377473" data-source-selector="[data-object=&quot;prop:node/2252377473&quot;]" data-name="Semnal feroviar" data-type="Railway signal" data-depth="306.23687331993676" data-order="85" data-authored-prop="signals.json" data-center="234.83620581158613 290.15122374880127">
-    <image href="../assets/props/signals/signal-assembled/az225-el35.264.png" width="334" height="1818" transform="matrix(0.0036283764 0.0000000000 0.0000000000 0.0035300111 632.6367681268 300.1921176382)" />
+    <image href="../assets/props/signals/signal-assembled/az225-el35.264.png" width="334" height="1818" transform="matrix(0.0036283764 0.0000000000 0.0000000000 0.0035300111 632.6367681268 300.1921176382)"/>
   </g>
   <g data-prop="node/2252377488" data-source-file="sources/art/signals.json" data-object="prop:node/2252377488" data-source-ref="node/2252377488" data-source-selector="[data-object=&quot;prop:node/2252377488&quot;]" data-name="Semnal feroviar" data-type="Railway signal" data-depth="307.47570893651476" data-order="86" data-authored-prop="signals.json" data-center="233.5301128760339 293.9882511835919">
-    <image href="../assets/props/signals/signal-assembled/az225-el35.264.png" width="334" height="1818" transform="matrix(0.0036283764 0.0000000000 0.0000000000 0.0035300111 636.9719071106 301.4309532548)" />
+    <image href="../assets/props/signals/signal-assembled/az225-el35.264.png" width="334" height="1818" transform="matrix(0.0036283764 0.0000000000 0.0000000000 0.0035300111 636.9719071106 301.4309532548)"/>
   </g>
   <g data-prop="node/3280579642" data-source-file="sources/art/signals.json" data-object="prop:node/3280579642" data-source-ref="node/3280579642" data-source-selector="[data-object=&quot;prop:node/3280579642&quot;]" data-name="Semafor Piața Gării" data-type="Traffic light" data-depth="338.1140453121439" data-order="87" data-authored-prop="signals.json" data-center="356.17366680788894 233.37203690262044">
-    <image href="../assets/props/signals/cluj-traffic-light/az315-el35.264.png" width="287" height="1453" transform="matrix(0.0023973160 0.0000000000 0.0000000000 0.0023973748 482.6166369615 334.6786072878)" />
+    <image href="../assets/props/signals/cluj-traffic-light/az315-el35.264.png" width="287" height="1453" transform="matrix(0.0023973160 0.0000000000 0.0000000000 0.0023973748 482.6166369615 334.6786072878)"/>
   </g>
   <g data-prop="node/3282493058" data-transport-stop="node/3282493058" data-source-file="svg/view-0.svg" data-object="prop:node/3282493058" data-source-ref="node/3282493058" data-source-selector="[data-prop=&quot;node/3282493058&quot;]" data-name="Grupul Școlar CFR Est" data-type="Transport stop" data-depth="416.980264" data-order="88">
-    <line x1="241.1" y1="419.0" x2="241.1" y2="414.0" stroke="#303b38" stroke-width="1" />
-    <circle cx="241.1" cy="413.0" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="241.1" y1="419.0" x2="241.1" y2="414.0" stroke="#303b38" stroke-width="1"/>
+    <circle cx="241.1" cy="413.0" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/3282493262" data-transport-stop="node/3282493262" data-source-file="svg/view-0.svg" data-object="prop:node/3282493262" data-source-ref="node/3282493262" data-source-selector="[data-prop=&quot;node/3282493262&quot;]" data-name="Grupul Școlar CFR Est" data-type="Transport stop" data-depth="427.445913" data-order="89">
-    <line x1="247.6" y1="429.5" x2="247.6" y2="424.5" stroke="#303b38" stroke-width="1" />
-    <circle cx="247.6" cy="423.5" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="247.6" y1="429.5" x2="247.6" y2="424.5" stroke="#303b38" stroke-width="1"/>
+    <circle cx="247.6" cy="423.5" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/3284221484" data-transport-stop="node/3284221484" data-source-file="svg/view-0.svg" data-object="prop:node/3284221484" data-source-ref="node/3284221484" data-source-selector="[data-prop=&quot;node/3284221484&quot;]" data-name="Piața Gării Vest" data-type="Transport stop" data-depth="190.691065" data-order="90">
-    <line x1="368.0" y1="192.7" x2="368.0" y2="187.7" stroke="#303b38" stroke-width="1" />
-    <circle cx="368.0" cy="186.7" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="368.0" y1="192.7" x2="368.0" y2="187.7" stroke="#303b38" stroke-width="1"/>
+    <circle cx="368.0" cy="186.7" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/3284221485" data-transport-stop="node/3284221485" data-source-file="svg/view-0.svg" data-object="prop:node/3284221485" data-source-ref="node/3284221485" data-source-selector="[data-prop=&quot;node/3284221485&quot;]" data-name="Piața Gării Nord" data-type="Transport stop" data-depth="270.177575" data-order="91">
-    <line x1="578.1" y1="272.2" x2="578.1" y2="267.2" stroke="#303b38" stroke-width="1" />
-    <circle cx="578.1" cy="266.2" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="578.1" y1="272.2" x2="578.1" y2="267.2" stroke="#303b38" stroke-width="1"/>
+    <circle cx="578.1" cy="266.2" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/4446477080" data-source-file="svg/view-0.svg" data-object="prop:node/4446477080" data-source-ref="node/4446477080" data-source-selector="[data-prop=&quot;node/4446477080&quot;]" data-name="" data-type="Sign" data-depth="185.648098" data-order="92">
-    <line x1="518.7" y1="187.7" x2="518.7" y2="182.7" stroke="#303b38" stroke-width="1" />
-    <circle cx="518.7" cy="181.7" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="518.7" y1="187.7" x2="518.7" y2="182.7" stroke="#303b38" stroke-width="1"/>
+    <circle cx="518.7" cy="181.7" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/6362990907" data-source-file="svg/view-0.svg" data-object="prop:node/6362990907" data-source-ref="node/6362990907" data-source-selector="[data-prop=&quot;node/6362990907&quot;]" data-name="" data-type="Bicycle parking" data-depth="353.399464" data-order="93">
-    <line x1="522.3" y1="355.4" x2="522.3" y2="350.4" stroke="#303b38" stroke-width="1" />
-    <circle cx="522.3" cy="349.4" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="522.3" y1="355.4" x2="522.3" y2="350.4" stroke="#303b38" stroke-width="1"/>
+    <circle cx="522.3" cy="349.4" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/8296919170" data-transport-stop="node/8296919170" data-source-file="svg/view-0.svg" data-object="prop:node/8296919170" data-source-ref="node/8296919170" data-source-selector="[data-prop=&quot;node/8296919170&quot;]" data-name="Piața Gării Vest" data-type="Transport stop" data-depth="193.039452" data-order="94">
-    <line x1="364.8" y1="195.1" x2="364.8" y2="190.1" stroke="#303b38" stroke-width="1" />
-    <circle cx="364.8" cy="189.1" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="364.8" y1="195.1" x2="364.8" y2="190.1" stroke="#303b38" stroke-width="1"/>
+    <circle cx="364.8" cy="189.1" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/8297135362" data-transport-stop="node/8297135362" data-source-file="svg/view-0.svg" data-object="prop:node/8297135362" data-source-ref="node/8297135362" data-source-selector="[data-prop=&quot;node/8297135362&quot;]" data-name="Gara Mică" data-type="Transport stop" data-depth="384.398607" data-order="95">
-    <line x1="465.7" y1="386.4" x2="465.7" y2="381.4" stroke="#303b38" stroke-width="1" />
-    <circle cx="465.7" cy="380.4" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="465.7" y1="386.4" x2="465.7" y2="381.4" stroke="#303b38" stroke-width="1"/>
+    <circle cx="465.7" cy="380.4" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/8321461620" data-source-file="svg/view-0.svg" data-object="prop:node/8321461620" data-source-ref="node/8321461620" data-source-selector="[data-prop=&quot;node/8321461620&quot;]" data-name="" data-type="Bench" data-depth="264.479022" data-order="96">
-    <line x1="592.4" y1="266.5" x2="592.4" y2="261.5" stroke="#303b38" stroke-width="1" />
-    <circle cx="592.4" cy="260.5" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="592.4" y1="266.5" x2="592.4" y2="261.5" stroke="#303b38" stroke-width="1"/>
+    <circle cx="592.4" cy="260.5" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/8321461621" data-source-file="svg/view-0.svg" data-object="prop:node/8321461621" data-source-ref="node/8321461621" data-source-selector="[data-prop=&quot;node/8321461621&quot;]" data-name="" data-type="Bench" data-depth="270.557987" data-order="97">
-    <line x1="585.7" y1="272.6" x2="585.7" y2="267.6" stroke="#303b38" stroke-width="1" />
-    <circle cx="585.7" cy="266.6" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="585.7" y1="272.6" x2="585.7" y2="267.6" stroke="#303b38" stroke-width="1"/>
+    <circle cx="585.7" cy="266.6" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/8457424746" data-source-file="sources/art/signals.json" data-object="prop:node/8457424746" data-source-ref="node/8457424746" data-source-selector="[data-object=&quot;prop:node/8457424746&quot;]" data-name="Semnal feroviar" data-type="Railway signal" data-depth="310.1577397777543" data-order="98" data-authored-prop="signals.json" data-center="230.1536721560177 302.84607338072664">
-    <image href="../assets/props/signals/signal-assembled/az225-el35.264.png" width="334" height="1818" transform="matrix(0.0036283764 0.0000000000 0.0000000000 0.0035300111 647.2841740402 304.1129840960)" />
+    <image href="../assets/props/signals/signal-assembled/az225-el35.264.png" width="334" height="1818" transform="matrix(0.0036283764 0.0000000000 0.0000000000 0.0035300111 647.2841740402 304.1129840960)"/>
   </g>
   <g data-prop="node/8457424747" data-source-file="sources/art/signals.json" data-object="prop:node/8457424747" data-source-ref="node/8457424747" data-source-selector="[data-object=&quot;prop:node/8457424747&quot;]" data-name="Semnal feroviar" data-type="Railway signal" data-depth="301.71249155113304" data-order="99" data-authored-prop="signals.json" data-center="239.57787376550004 276.16637184187846">
-    <image href="../assets/props/signals/signal-assembled/az225-el35.264.png" width="334" height="1818" transform="matrix(0.0036283764 0.0000000000 0.0000000000 0.0035300111 616.8521742551 295.6677358694)" />
+    <image href="../assets/props/signals/signal-assembled/az225-el35.264.png" width="334" height="1818" transform="matrix(0.0036283764 0.0000000000 0.0000000000 0.0035300111 616.8521742551 295.6677358694)"/>
   </g>
   <g data-prop="node/8601983790" data-transport-stop="node/8601983790" data-source-file="svg/view-0.svg" data-object="prop:node/8601983790" data-source-ref="node/8601983790" data-source-selector="[data-prop=&quot;node/8601983790&quot;]" data-name="Gara Mică" data-type="Transport stop" data-depth="383.687273" data-order="100">
-    <line x1="462.7" y1="385.7" x2="462.7" y2="380.7" stroke="#303b38" stroke-width="1" />
-    <circle cx="462.7" cy="379.7" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="462.7" y1="385.7" x2="462.7" y2="380.7" stroke="#303b38" stroke-width="1"/>
+    <circle cx="462.7" cy="379.7" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/9648311727" data-source-file="svg/view-0.svg" data-object="prop:node/9648311727" data-source-ref="node/9648311727" data-source-selector="[data-prop=&quot;node/9648311727&quot;]" data-name="" data-type="Sign" data-depth="173.463818" data-order="101">
-    <line x1="676.1" y1="175.5" x2="676.1" y2="170.5" stroke="#303b38" stroke-width="1" />
-    <circle cx="676.1" cy="169.5" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="676.1" y1="175.5" x2="676.1" y2="170.5" stroke="#303b38" stroke-width="1"/>
+    <circle cx="676.1" cy="169.5" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/9648311728" data-source-file="svg/view-0.svg" data-object="prop:node/9648311728" data-source-ref="node/9648311728" data-source-selector="[data-prop=&quot;node/9648311728&quot;]" data-name="" data-type="Sign" data-depth="177.522334" data-order="102">
-    <line x1="672.1" y1="179.5" x2="672.1" y2="174.5" stroke="#303b38" stroke-width="1" />
-    <circle cx="672.1" cy="173.5" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="672.1" y1="179.5" x2="672.1" y2="174.5" stroke="#303b38" stroke-width="1"/>
+    <circle cx="672.1" cy="173.5" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/9648311729" data-source-file="svg/view-0.svg" data-object="prop:node/9648311729" data-source-ref="node/9648311729" data-source-selector="[data-prop=&quot;node/9648311729&quot;]" data-name="" data-type="Sign" data-depth="148.135877" data-order="103">
-    <line x1="630.8" y1="150.2" x2="630.8" y2="145.2" stroke="#303b38" stroke-width="1" />
-    <circle cx="630.8" cy="144.2" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="630.8" y1="150.2" x2="630.8" y2="145.2" stroke="#303b38" stroke-width="1"/>
+    <circle cx="630.8" cy="144.2" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/10707709603" data-source-file="svg/view-0.svg" data-object="prop:node/10707709603" data-source-ref="node/10707709603" data-source-selector="[data-prop=&quot;node/10707709603&quot;]" data-name="" data-type="Sign" data-depth="349.200961" data-order="104">
-    <line x1="707.5" y1="351.2" x2="707.5" y2="346.2" stroke="#303b38" stroke-width="1" />
-    <circle cx="707.5" cy="345.2" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="707.5" y1="351.2" x2="707.5" y2="346.2" stroke="#303b38" stroke-width="1"/>
+    <circle cx="707.5" cy="345.2" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/10823759773" data-source-file="svg/view-0.svg" data-object="prop:node/10823759773" data-source-ref="node/10823759773" data-source-selector="[data-prop=&quot;node/10823759773&quot;]" data-name="" data-type="Sign" data-depth="155.877197" data-order="105">
-    <line x1="488.3" y1="157.9" x2="488.3" y2="152.9" stroke="#303b38" stroke-width="1" />
-    <circle cx="488.3" cy="151.9" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="488.3" y1="157.9" x2="488.3" y2="152.9" stroke="#303b38" stroke-width="1"/>
+    <circle cx="488.3" cy="151.9" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/10823759774" data-source-file="svg/view-0.svg" data-object="prop:node/10823759774" data-source-ref="node/10823759774" data-source-selector="[data-prop=&quot;node/10823759774&quot;]" data-name="" data-type="Sign" data-depth="154.308795" data-order="106">
-    <line x1="487.3" y1="156.3" x2="487.3" y2="151.3" stroke="#303b38" stroke-width="1" />
-    <circle cx="487.3" cy="150.3" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="487.3" y1="156.3" x2="487.3" y2="151.3" stroke="#303b38" stroke-width="1"/>
+    <circle cx="487.3" cy="150.3" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/13654524989" data-source-file="svg/view-0.svg" data-object="prop:node/13654524989" data-source-ref="node/13654524989" data-source-selector="[data-prop=&quot;node/13654524989&quot;]" data-name="" data-type="Bench" data-depth="231.812844" data-order="107">
-    <line x1="648.5" y1="233.8" x2="648.5" y2="228.8" stroke="#303b38" stroke-width="1" />
-    <circle cx="648.5" cy="227.8" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="648.5" y1="233.8" x2="648.5" y2="228.8" stroke="#303b38" stroke-width="1"/>
+    <circle cx="648.5" cy="227.8" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-prop="node/13654524990" data-source-file="svg/view-0.svg" data-object="prop:node/13654524990" data-source-ref="node/13654524990" data-source-selector="[data-prop=&quot;node/13654524990&quot;]" data-name="" data-type="Bench" data-depth="229.334326" data-order="108">
-    <line x1="651.0" y1="231.4" x2="651.0" y2="226.4" stroke="#303b38" stroke-width="1" />
-    <circle cx="651.0" cy="225.4" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45" />
+    <line x1="651.0" y1="231.4" x2="651.0" y2="226.4" stroke="#303b38" stroke-width="1"/>
+    <circle cx="651.0" cy="225.4" r="1.8" fill="#426d8c" stroke="#e3dcc0" stroke-width=".45"/>
   </g>
   <g data-tunnel-entrance="stairs-way-375790739" data-source-file="svg/details-view-0.svg" data-object="tunnel-entrance:stairs-way-375790739" data-source-ref="stairs-way-375790739" data-source-selector="[data-tunnel-entrance=&quot;stairs-way-375790739&quot;]" data-name="" data-type="Stairwell" data-order="109">
-    <path d="M509.8 278.2h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6" />
-    <path d="M510.8 276.2h4" stroke="#d9ce9e" stroke-width=".7" />
+    <path d="M509.8 278.2h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6"/>
+    <path d="M510.8 276.2h4" stroke="#d9ce9e" stroke-width=".7"/>
   </g>
   <g data-tunnel-entrance="stairs-way-375790743" data-source-file="sources/art/underpasses.json" data-object="tunnel-entrance:stairs-way-375790743" data-source-ref="stairs-way-375790743" data-source-selector="[data-object=&quot;tunnel-entrance:stairs-way-375790743&quot;]" data-name="Acces pasaj pietonal" data-type="Stairwell" data-order="110" data-authored-prop="underpasses.json" data-depth="299.3326673361469" data-center="299.17350953056143 211.50000895999085">
-    <image href="../assets/props/underpasses/stairs-way-375790743/view-0.png" width="1256" height="1127" transform="matrix(0.0071428571 0.0000000000 0.0000000000 0.0071428571 508.3166954641 294.4972601705)" />
+    <image href="../assets/props/underpasses/stairs-way-375790743/view-0.png" width="1256" height="1127" transform="matrix(0.0071428571 0.0000000000 0.0000000000 0.0071428571 508.3166954641 294.4972601705)"/>
   </g>
   <g data-tunnel-entrance="stairs-way-375790747" data-source-file="svg/details-view-0.svg" data-object="tunnel-entrance:stairs-way-375790747" data-source-ref="stairs-way-375790747" data-source-selector="[data-tunnel-entrance=&quot;stairs-way-375790747&quot;]" data-name="" data-type="Stairwell" data-order="111">
-    <path d="M563.2 287.9h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6" />
-    <path d="M564.2 285.9h4" stroke="#d9ce9e" stroke-width=".7" />
+    <path d="M563.2 287.9h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6"/>
+    <path d="M564.2 285.9h4" stroke="#d9ce9e" stroke-width=".7"/>
   </g>
   <g data-tunnel-entrance="stairs-way-375790749" data-source-file="sources/art/underpasses.json" data-object="tunnel-entrance:stairs-way-375790749" data-source-ref="stairs-way-375790749" data-source-selector="[data-object=&quot;tunnel-entrance:stairs-way-375790749&quot;]" data-name="Acces pasaj pietonal" data-type="Stairwell" data-order="112" data-authored-prop="underpasses.json" data-depth="318.0943140618959" data-center="293.45783966365525 255.4941896892562">
-    <image href="../assets/props/underpasses/stairs-way-375790749/view-0.png" width="1550" height="1246" transform="matrix(0.0071428571 0.0000000000 0.0000000000 0.0071428571 549.1893519869 312.8619214413)" />
+    <image href="../assets/props/underpasses/stairs-way-375790749/view-0.png" width="1550" height="1246" transform="matrix(0.0071428571 0.0000000000 0.0000000000 0.0071428571 549.1893519869 312.8619214413)"/>
   </g>
   <g data-tunnel-entrance="stairs-way-550809107" data-source-file="svg/details-view-0.svg" data-object="tunnel-entrance:stairs-way-550809107" data-source-ref="stairs-way-550809107" data-source-selector="[data-tunnel-entrance=&quot;stairs-way-550809107&quot;]" data-name="" data-type="Stairwell" data-order="113">
-    <path d="M573.1 299.8h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6" />
-    <path d="M574.1 297.8h4" stroke="#d9ce9e" stroke-width=".7" />
+    <path d="M573.1 299.8h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6"/>
+    <path d="M574.1 297.8h4" stroke="#d9ce9e" stroke-width=".7"/>
   </g>
   <g data-tunnel-entrance="stairs-way-550809109" data-source-file="sources/art/underpasses.json" data-object="tunnel-entrance:stairs-way-550809109" data-source-ref="stairs-way-550809109" data-source-selector="[data-object=&quot;tunnel-entrance:stairs-way-550809109&quot;]" data-name="Acces pasaj pietonal" data-type="Stairwell" data-order="114" data-authored-prop="underpasses.json" data-depth="-9000" data-center="165.4680699368701 226.1128581241762">
-    <image href="../assets/props/underpasses/stairs-way-550809109/view-0.png" width="1660" height="1301" transform="matrix(0.0071428571 0.0000000000 0.0000000000 0.0071428571 631.7015631662 235.6229344167)" />
+    <image href="../assets/props/underpasses/stairs-way-550809109/view-0.png" width="1660" height="1301" transform="matrix(0.0071428571 0.0000000000 0.0000000000 0.0071428571 631.7015631662 235.6229344167)"/>
   </g>
   <g data-tunnel-entrance="stairs-way-550809110" data-source-file="svg/details-view-0.svg" data-object="tunnel-entrance:stairs-way-550809110" data-source-ref="stairs-way-550809110" data-source-selector="[data-tunnel-entrance=&quot;stairs-way-550809110&quot;]" data-name="" data-type="Stairwell" data-order="115">
-    <path d="M619.6 256.1h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6" />
-    <path d="M620.6 254.1h4" stroke="#d9ce9e" stroke-width=".7" />
+    <path d="M619.6 256.1h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6"/>
+    <path d="M620.6 254.1h4" stroke="#d9ce9e" stroke-width=".7"/>
   </g>
   <g data-tunnel-entrance="stairs-way-551047361" data-source-file="svg/details-view-0.svg" data-object="tunnel-entrance:stairs-way-551047361" data-source-ref="stairs-way-551047361" data-source-selector="[data-tunnel-entrance=&quot;stairs-way-551047361&quot;]" data-name="" data-type="Stairwell" data-order="116">
-    <path d="M746.5 292.8h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6" />
-    <path d="M747.5 290.8h4" stroke="#d9ce9e" stroke-width=".7" />
+    <path d="M746.5 292.8h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6"/>
+    <path d="M747.5 290.8h4" stroke="#d9ce9e" stroke-width=".7"/>
   </g>
   <g data-tunnel-entrance="stairs-way-892692965" data-source-file="svg/details-view-0.svg" data-object="tunnel-entrance:stairs-way-892692965" data-source-ref="stairs-way-892692965" data-source-selector="[data-tunnel-entrance=&quot;stairs-way-892692965&quot;]" data-name="" data-type="Stairwell" data-order="117">
-    <path d="M611.7 243.4h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6" />
-    <path d="M612.7 241.4h4" stroke="#d9ce9e" stroke-width=".7" />
+    <path d="M611.7 243.4h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6"/>
+    <path d="M612.7 241.4h4" stroke="#d9ce9e" stroke-width=".7"/>
   </g>
   <g data-tunnel-entrance="stairs-way-892692968" data-source-file="svg/details-view-0.svg" data-object="tunnel-entrance:stairs-way-892692968" data-source-ref="stairs-way-892692968" data-source-selector="[data-tunnel-entrance=&quot;stairs-way-892692968&quot;]" data-name="" data-type="Stairwell" data-order="118">
-    <path d="M515.3 319.3h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6" />
-    <path d="M516.3 317.3h4" stroke="#d9ce9e" stroke-width=".7" />
+    <path d="M515.3 319.3h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6"/>
+    <path d="M516.3 317.3h4" stroke="#d9ce9e" stroke-width=".7"/>
   </g>
   <g data-tunnel-entrance="approximate-stairs-platform-4-5" data-source-file="sources/art/underpasses.json" data-object="tunnel-entrance:approximate-stairs-platform-4-5" data-source-ref="approximate-stairs-platform-4-5" data-source-selector="[data-object=&quot;tunnel-entrance:approximate-stairs-platform-4-5&quot;]" data-name="Acces pasaj Peronul 4;5" data-type="Stairwell" data-order="119" data-authored-prop="underpasses.json" data-depth="273.61120084865894" data-center="172.6441316230841 286.04243935863576">
-    <image href="../assets/props/underpasses/approximate-stairs-platform-4-5/view-0.png" width="1122" height="978" transform="matrix(0.0071428571 0.0000000000 0.0000000000 0.0071428571 678.2972781457 269.4871751717)" />
+    <image href="../assets/props/underpasses/approximate-stairs-platform-4-5/view-0.png" width="1122" height="978" transform="matrix(0.0071428571 0.0000000000 0.0000000000 0.0071428571 678.2972781457 269.4871751717)"/>
   </g>
   <g data-tunnel-entrance="approximate-stairs-platform-6-7" data-source-file="svg/details-view-0.svg" data-object="tunnel-entrance:approximate-stairs-platform-6-7" data-source-ref="approximate-stairs-platform-6-7" data-source-selector="[data-tunnel-entrance=&quot;approximate-stairs-platform-6-7&quot;]" data-name="" data-type="Stairwell" data-order="120">
-    <path d="M696.9 277.0h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6" />
-    <path d="M697.9 275.0h4" stroke="#d9ce9e" stroke-width=".7" />
+    <path d="M696.9 277.0h6v-5h-6z" fill="#253331" stroke="#c1b98f" stroke-width=".6"/>
+    <path d="M697.9 275.0h4" stroke="#d9ce9e" stroke-width=".7"/>
   </g>
   <g data-static-details="">
-    <g clip-path="url(#map-footprint)" />
+    <g clip-path="url(#map-footprint)"/>
   </g>
   <g data-object="person:station-01" data-authored-person="" data-person-variant="person-01" data-type="Person" data-name="Traveller in a teal jacket" data-depth="240.294181" data-source-file="sources/art/people.json" data-source-selector="[data-object=&quot;person:station-01&quot;]">
     <g transform="matrix(-0.842901 0.492196 0.842901 0.490403 630.271805 240.294181)" fill="#182020">
-      <ellipse cx="0" cy="0" rx="0.56" ry="0.36400000000000005" opacity="0.08" />
-      <ellipse cx="0" cy="0" rx="0.44" ry="0.28600000000000003" opacity="0.16" />
+      <ellipse cx="0" cy="0" rx="0.56" ry="0.36400000000000005" opacity="0.08"/>
+      <ellipse cx="0" cy="0" rx="0.44" ry="0.28600000000000003" opacity="0.16"/>
     </g>
-    <image href="../assets/people/person-01/view-0.png" x="629.758336" y="236.769397" width="1.411407" height="3.681607" />
+    <image href="../assets/people/person-01/view-0.png" x="629.758336" y="236.769397" width="1.411407" height="3.681607"/>
   </g>
   <g data-object="person:station-02" data-authored-person="" data-person-variant="person-02" data-type="Person" data-name="Traveller in an ochre coat" data-depth="249.587092" data-source-file="sources/art/people.json" data-source-selector="[data-object=&quot;person:station-02&quot;]">
     <g transform="matrix(-0.842901 0.492196 0.842901 0.490403 619.716212 249.587092)" fill="#182020">
-      <ellipse cx="0" cy="0" rx="0.56" ry="0.36400000000000005" opacity="0.08" />
-      <ellipse cx="0" cy="0" rx="0.44" ry="0.28600000000000003" opacity="0.16" />
+      <ellipse cx="0" cy="0" rx="0.56" ry="0.36400000000000005" opacity="0.08"/>
+      <ellipse cx="0" cy="0" rx="0.44" ry="0.28600000000000003" opacity="0.16"/>
     </g>
-    <image href="../assets/people/person-02/view-0.png" x="619.295191" y="246.279890" width="1.189186" height="3.454971" />
+    <image href="../assets/people/person-02/view-0.png" x="619.295191" y="246.279890" width="1.189186" height="3.454971"/>
   </g>
   <g data-object="person:station-03" data-authored-person="" data-person-variant="person-03" data-type="Person" data-name="Older traveller in a blue jacket" data-depth="253.802204" data-source-file="sources/art/people.json" data-source-selector="[data-object=&quot;person:station-03&quot;]">
     <g transform="matrix(-0.842901 0.492196 0.842901 0.490403 614.888701 253.802204)" fill="#182020">
-      <ellipse cx="0" cy="0" rx="0.56" ry="0.36400000000000005" opacity="0.08" />
-      <ellipse cx="0" cy="0" rx="0.44" ry="0.28600000000000003" opacity="0.16" />
+      <ellipse cx="0" cy="0" rx="0.56" ry="0.36400000000000005" opacity="0.08"/>
+      <ellipse cx="0" cy="0" rx="0.44" ry="0.28600000000000003" opacity="0.16"/>
     </g>
-    <image href="../assets/people/person-03/view-0.png" x="614.487353" y="250.357252" width="1.263871" height="3.596617" />
+    <image href="../assets/people/person-03/view-0.png" x="614.487353" y="250.357252" width="1.263871" height="3.596617"/>
   </g>
   <g data-object="person:station-04" data-authored-person="" data-person-variant="person-04" data-type="Person" data-name="Traveller in a burgundy sweater" data-depth="267.750079" data-source-file="sources/art/people.json" data-source-selector="[data-object=&quot;person:station-04&quot;]">
     <g transform="matrix(-0.842901 0.492196 0.842901 0.490403 592.294474 274.658462)" fill="#182020">
-      <ellipse cx="0" cy="0" rx="0.56" ry="0.36400000000000005" opacity="0.08" />
-      <ellipse cx="0" cy="0" rx="0.44" ry="0.28600000000000003" opacity="0.16" />
+      <ellipse cx="0" cy="0" rx="0.56" ry="0.36400000000000005" opacity="0.08"/>
+      <ellipse cx="0" cy="0" rx="0.44" ry="0.28600000000000003" opacity="0.16"/>
     </g>
-    <image href="../assets/people/person-04/view-0.png" x="591.797347" y="271.291848" width="1.253526" height="3.517037" />
+    <image href="../assets/people/person-04/view-0.png" x="591.797347" y="271.291848" width="1.253526" height="3.517037"/>
   </g>
   <g data-object="person:station-05" data-authored-person="" data-person-variant="person-05" data-type="Person" data-name="Traveller in a sage overshirt" data-depth="267.750079" data-source-file="sources/art/people.json" data-source-selector="[data-object=&quot;person:station-05&quot;]">
     <g transform="matrix(-0.842901 0.492196 0.842901 0.490403 576.928456 289.020194)" fill="#182020">
-      <ellipse cx="0" cy="0" rx="0.56" ry="0.36400000000000005" opacity="0.08" />
-      <ellipse cx="0" cy="0" rx="0.44" ry="0.28600000000000003" opacity="0.16" />
+      <ellipse cx="0" cy="0" rx="0.56" ry="0.36400000000000005" opacity="0.08"/>
+      <ellipse cx="0" cy="0" rx="0.44" ry="0.28600000000000003" opacity="0.16"/>
     </g>
-    <image href="../assets/people/person-05/view-0.png" x="576.491966" y="285.432815" width="1.326737" height="3.743030" />
+    <image href="../assets/people/person-05/view-0.png" x="576.491966" y="285.432815" width="1.326737" height="3.743030"/>
   </g>
   <g data-object="vehicle:station-parking-18" data-authored-vehicle="" data-vehicle-variant="taxi-sedan" data-vehicle-camera="az045" data-depth="263.580161" data-type="Car" data-name="Parked sedan taxi" data-source-file="sources/art/vehicles.json" data-source-selector="[data-object=&quot;vehicle:station-parking-18&quot;]">
     <g transform="matrix(0.638871051 0.585908645 1.006382855 -0.373448020 598.827290036 263.580161142)" fill="#111820">
-      <rect x="-2.52" y="-1.03" width="5.04" height="2.06" rx="0.35" opacity="0.07" />
-      <rect x="-2.4" y="-0.91" width="4.8" height="1.82" rx="0.35" opacity="0.12" />
-      <rect x="-2.2199999999999998" y="-0.73" width="4.4399999999999995" height="1.46" rx="0.35" opacity="0.18" />
+      <rect x="-2.52" y="-1.03" width="5.04" height="2.06" rx="0.35" opacity="0.07"/>
+      <rect x="-2.4" y="-0.91" width="4.8" height="1.82" rx="0.35" opacity="0.12"/>
+      <rect x="-2.2199999999999998" y="-0.73" width="4.4399999999999995" height="1.46" rx="0.35" opacity="0.18"/>
     </g>
-    <image href="../assets/vehicles/taxi-sedan/az045-el35.264.png" width="1456" height="881" transform="matrix(0.003824291 0.000493852 -0.001685883 0.004400846 597.012301618 260.690900257)" />
+    <image href="../assets/vehicles/taxi-sedan/az045-el35.264.png" width="1456" height="881" transform="matrix(0.003824291 0.000493852 -0.001685883 0.004400846 597.012301618 260.690900257)"/>
   </g>
   <g data-object="vehicle:station-parking-19" data-authored-vehicle="" data-vehicle-variant="taxi-compact" data-vehicle-camera="az045" data-depth="265.318661" data-type="Car" data-name="Parked compact taxi" data-source-file="sources/art/vehicles.json" data-source-selector="[data-object=&quot;vehicle:station-parking-19&quot;]">
     <g transform="matrix(0.640255422 0.585394154 1.005502693 -0.374253989 597.167956015 265.318660883)" fill="#111820">
-      <rect x="-2.27" y="-0.99" width="4.54" height="1.98" rx="0.35" opacity="0.07" />
-      <rect x="-2.15" y="-0.87" width="4.3" height="1.74" rx="0.35" opacity="0.12" />
-      <rect x="-1.97" y="-0.69" width="3.94" height="1.38" rx="0.35" opacity="0.18" />
+      <rect x="-2.27" y="-0.99" width="4.54" height="1.98" rx="0.35" opacity="0.07"/>
+      <rect x="-2.15" y="-0.87" width="4.3" height="1.74" rx="0.35" opacity="0.12"/>
+      <rect x="-1.97" y="-0.69" width="3.94" height="1.38" rx="0.35" opacity="0.18"/>
     </g>
-    <image href="../assets/vehicles/taxi-compact/az045-el35.264.png" width="1425" height="904" transform="matrix(0.003567975 0.000457748 -0.001512931 0.003975066 595.537536280 262.596956487)" />
+    <image href="../assets/vehicles/taxi-compact/az045-el35.264.png" width="1425" height="904" transform="matrix(0.003567975 0.000457748 -0.001512931 0.003975066 595.537536280 262.596956487)"/>
   </g>
   <g data-object="vehicle:carrefour-tram-60" data-authored-vehicle="" data-vehicle-variant="tram-fleet-60" data-vehicle-camera="view-0" data-depth="352.408181" data-type="Tram" data-name="CTP tram 60 — Carrefour Market" data-source-file="sources/art/vehicles.json" data-source-selector="[data-object=&quot;vehicle:carrefour-tram-60&quot;]">
     <g transform="matrix(0.565530917 -0.612234615 -1.049350968 -0.328513530 494.502494035 352.408181232)" fill="#111820">
-      <rect x="-16.12" y="-1.3199999999999998" width="32.24" height="2.6399999999999997" rx="0.35" opacity="0.07" />
-      <rect x="-16.0" y="-1.2" width="32" height="2.4" rx="0.35" opacity="0.12" />
-      <rect x="-15.82" y="-1.02" width="31.64" height="2.04" rx="0.35" opacity="0.18" />
+      <rect x="-16.12" y="-1.3199999999999998" width="32.24" height="2.6399999999999997" rx="0.35" opacity="0.07"/>
+      <rect x="-16.0" y="-1.2" width="32" height="2.4" rx="0.35" opacity="0.12"/>
+      <rect x="-15.82" y="-1.02" width="31.64" height="2.04" rx="0.35" opacity="0.18"/>
     </g>
-    <image href="../assets/vehicles/tram-fleet-60/view-0.png" width="1254" height="1254" transform="matrix(0.019909557 0.000000000 0.000000000 0.020690483 481.222819848 337.523856867)" />
+    <image href="../assets/vehicles/tram-fleet-60/view-0.png" width="1254" height="1254" transform="matrix(0.019909557 0.000000000 0.000000000 0.020690483 481.222819848 337.523856867)"/>
   </g>
   <g data-object="vehicle:carrefour-red-train" data-authored-vehicle="" data-vehicle-variant="passenger-train" data-vehicle-camera="view-0" data-depth="372.052452" data-type="Train" data-name="Red regional train — Carrefour Market" data-source-file="sources/art/vehicles.json" data-source-selector="[data-object=&quot;vehicle:carrefour-red-train&quot;]">
     <g transform="matrix(0.615771085 -0.595576953 -1.020680480 -0.357827411 553.449135186 372.052452054)" fill="#111820">
-      <rect x="-21.12" y="-1.5699999999999998" width="42.24" height="3.1399999999999997" rx="0.35" opacity="0.07" />
-      <rect x="-21.0" y="-1.45" width="42" height="2.9" rx="0.35" opacity="0.12" />
-      <rect x="-20.82" y="-1.27" width="41.64" height="2.54" rx="0.35" opacity="0.18" />
+      <rect x="-21.12" y="-1.5699999999999998" width="42.24" height="3.1399999999999997" rx="0.35" opacity="0.07"/>
+      <rect x="-21.0" y="-1.45" width="42" height="2.9" rx="0.35" opacity="0.12"/>
+      <rect x="-20.82" y="-1.27" width="41.64" height="2.54" rx="0.35" opacity="0.18"/>
     </g>
-    <image href="../assets/vehicles/passenger-train/view-0.png" width="1254" height="1254" transform="matrix(0.024846438 0.000000000 0.000000000 0.026011991 537.609531160 353.080516379)" />
+    <image href="../assets/vehicles/passenger-train/view-0.png" width="1254" height="1254" transform="matrix(0.024846438 0.000000000 0.000000000 0.026011991 537.609531160 353.080516379)"/>
   </g>
 </svg>
