@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "view-270",
+  "name": "270° izometric",
+  "kind": "isometric",
+  "matrix": [
+    0.866,
+    0.866,
+    0.5,
+    -0.5
+  ],
+  "origin": {
+    "x": 12.233169,
+    "y": 272.988029
+  },
+  "scale": 0.93307673186,
+  "azimuth": 270,
+  "elevation": 35.264
+}

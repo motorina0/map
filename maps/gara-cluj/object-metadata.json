@@ -1,0 +1,6101 @@
+{
+  "retrievedAt": "2026-08-20",
+  "attribution": "© OpenStreetMap contributors",
+  "licenceUrl": "https://www.openstreetmap.org/copyright",
+  "objects": {
+    "way-276162629": {
+      "sourceRef": "way/276162629",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5864775,
+        "latitude": 46.7821074
+      }
+    },
+    "way-276472751": {
+      "sourceRef": "way/276472751",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5853644,
+        "latitude": 46.782109
+      }
+    },
+    "way-276162706": {
+      "sourceRef": "way/276162706",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Horea",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5867806,
+        "latitude": 46.7821118
+      }
+    },
+    "way-276472753": {
+      "sourceRef": "way/276472753",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5893226,
+        "latitude": 46.7821166
+      }
+    },
+    "way-276472260": {
+      "sourceRef": "way/276472260",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Traian",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.592537,
+        "latitude": 46.7821197
+      }
+    },
+    "way-276472521": {
+      "sourceRef": "way/276472521",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5845617,
+        "latitude": 46.7821166
+      }
+    },
+    "way-276472833": {
+      "sourceRef": "way/276472833",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5908836,
+        "latitude": 46.7821265
+      }
+    },
+    "way-275799144": {
+      "sourceRef": "way/275799144",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5889279,
+        "latitude": 46.7821188
+      }
+    },
+    "way-276473153": {
+      "sourceRef": "way/276473153",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5841036,
+        "latitude": 46.7821312
+      }
+    },
+    "way-276472569": {
+      "sourceRef": "way/276472569",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5851975,
+        "latitude": 46.7821388
+      }
+    },
+    "way-276162715": {
+      "sourceRef": "way/276162715",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "24",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Câmpeni",
+        "building": "yes",
+        "source": "survey"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5860803,
+        "latitude": 46.7821344
+      }
+    },
+    "way-276472825": {
+      "sourceRef": "way/276472825",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5896388,
+        "latitude": 46.7821311
+      }
+    },
+    "way-275799148": {
+      "sourceRef": "way/275799148",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5881435,
+        "latitude": 46.7821442
+      }
+    },
+    "way-276472444": {
+      "sourceRef": "way/276472444",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5906155,
+        "latitude": 46.7821492
+      }
+    },
+    "way-276472475": {
+      "sourceRef": "way/276472475",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fierului",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5838507,
+        "latitude": 46.782156
+      }
+    },
+    "way-275799147": {
+      "sourceRef": "way/275799147",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Horea",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5877843,
+        "latitude": 46.7821565
+      }
+    },
+    "way-276162747": {
+      "sourceRef": "way/276162747",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5865609,
+        "latitude": 46.7821653
+      }
+    },
+    "way-276473054": {
+      "sourceRef": "way/276473054",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5898558,
+        "latitude": 46.7821679
+      }
+    },
+    "way-276472568": {
+      "sourceRef": "way/276472568",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5916293,
+        "latitude": 46.7821562
+      }
+    },
+    "way-276472661": {
+      "sourceRef": "way/276472661",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.591044,
+        "latitude": 46.7821897
+      }
+    },
+    "way-276472885": {
+      "sourceRef": "way/276472885",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5914379,
+        "latitude": 46.7822141
+      }
+    },
+    "way-276473262": {
+      "sourceRef": "way/276473262",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Traian",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5925496,
+        "latitude": 46.7822235
+      }
+    },
+    "way-276472746": {
+      "sourceRef": "way/276472746",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5845831,
+        "latitude": 46.7822327
+      }
+    },
+    "way-276472955": {
+      "sourceRef": "way/276472955",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5841624,
+        "latitude": 46.78223
+      }
+    },
+    "way-276162742": {
+      "sourceRef": "way/276162742",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Câmpeni",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5861755,
+        "latitude": 46.7822253
+      }
+    },
+    "way-276472864": {
+      "sourceRef": "way/276472864",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5907309,
+        "latitude": 46.7822312
+      }
+    },
+    "way-276472961": {
+      "sourceRef": "way/276472961",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5898593,
+        "latitude": 46.7822376
+      }
+    },
+    "way-276472781": {
+      "sourceRef": "way/276472781",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.584804,
+        "latitude": 46.7822401
+      }
+    },
+    "way-276472417": {
+      "sourceRef": "way/276472417",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Traian",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5920745,
+        "latitude": 46.7822654
+      }
+    },
+    "way-275799143": {
+      "sourceRef": "way/275799143",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.588732,
+        "latitude": 46.782273
+      }
+    },
+    "way-276473273": {
+      "sourceRef": "way/276473273",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.589464,
+        "latitude": 46.7822594
+      }
+    },
+    "way-276472348": {
+      "sourceRef": "way/276472348",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fericirii",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5853736,
+        "latitude": 46.782279
+      }
+    },
+    "way-276473177": {
+      "sourceRef": "way/276473177",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5900126,
+        "latitude": 46.7822669
+      }
+    },
+    "way-275799146": {
+      "sourceRef": "way/275799146",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "92",
+        "addr:postcode": "400275",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Horea",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.587824,
+        "latitude": 46.7822804
+      }
+    },
+    "way-276473090": {
+      "sourceRef": "way/276473090",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5918899,
+        "latitude": 46.7823135
+      }
+    },
+    "way-276162699": {
+      "sourceRef": "way/276162699",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "26",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Câmpeni",
+        "building": "house",
+        "source": "survey"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5860877,
+        "latitude": 46.7823341
+      }
+    },
+    "way-276473116": {
+      "sourceRef": "way/276473116",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "23",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Câmpeni",
+        "building": "house",
+        "building:levels": "2",
+        "source": "survey"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5857415,
+        "latitude": 46.7823465
+      }
+    },
+    "way-276473013": {
+      "sourceRef": "way/276473013",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.591266,
+        "latitude": 46.782355
+      }
+    },
+    "way-276472851": {
+      "sourceRef": "way/276472851",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.591932,
+        "latitude": 46.7823542
+      }
+    },
+    "way-276472257": {
+      "sourceRef": "way/276472257",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5847017,
+        "latitude": 46.7823603
+      }
+    },
+    "way-276472259": {
+      "sourceRef": "way/276472259",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.590937,
+        "latitude": 46.7823772
+      }
+    },
+    "way-276472829": {
+      "sourceRef": "way/276472829",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Traian",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5926761,
+        "latitude": 46.7824124
+      }
+    },
+    "way-276473105": {
+      "sourceRef": "way/276473105",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5898375,
+        "latitude": 46.7824214
+      }
+    },
+    "way-276473063": {
+      "sourceRef": "way/276473063",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fericirii",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5852406,
+        "latitude": 46.7824083
+      }
+    },
+    "way-276472897": {
+      "sourceRef": "way/276472897",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fierului",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5838358,
+        "latitude": 46.7824196
+      }
+    },
+    "way-276472915": {
+      "sourceRef": "way/276472915",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fierului",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5839863,
+        "latitude": 46.782421
+      }
+    },
+    "way-276472538": {
+      "sourceRef": "way/276472538",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5911074,
+        "latitude": 46.7824134
+      }
+    },
+    "way-275799142": {
+      "sourceRef": "way/275799142",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5884331,
+        "latitude": 46.7824214
+      }
+    },
+    "way-276472344": {
+      "sourceRef": "way/276472344",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5892207,
+        "latitude": 46.7824311
+      }
+    },
+    "way-276472785": {
+      "sourceRef": "way/276472785",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fericirii",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5853437,
+        "latitude": 46.782432
+      }
+    },
+    "way-276472507": {
+      "sourceRef": "way/276472507",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5916547,
+        "latitude": 46.7824578
+      }
+    },
+    "way-276472733": {
+      "sourceRef": "way/276472733",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5846676,
+        "latitude": 46.7824646
+      }
+    },
+    "way-276473015": {
+      "sourceRef": "way/276473015",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "45",
+        "addr:street": "Strada Fierului",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5842741,
+        "latitude": 46.7824762
+      }
+    },
+    "way-276473072": {
+      "sourceRef": "way/276473072",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5919459,
+        "latitude": 46.7824658
+      }
+    },
+    "way-276472727": {
+      "sourceRef": "way/276472727",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5848205,
+        "latitude": 46.7824757
+      }
+    },
+    "way-276162769": {
+      "sourceRef": "way/276162769",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "28",
+        "addr:postcode": "400200",
+        "addr:street": "Strada Câmpeni",
+        "building": "public",
+        "government": "telecommunications",
+        "name": "ANCOM Direcția Regională Cluj",
+        "office": "government"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5862329,
+        "latitude": 46.7824752
+      }
+    },
+    "way-276472883": {
+      "sourceRef": "way/276472883",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Traian",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5927663,
+        "latitude": 46.7825072
+      }
+    },
+    "way-276473176": {
+      "sourceRef": "way/276473176",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5903308,
+        "latitude": 46.7825095
+      }
+    },
+    "way-276472990": {
+      "sourceRef": "way/276472990",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5846062,
+        "latitude": 46.7825319
+      }
+    },
+    "way-276472770": {
+      "sourceRef": "way/276472770",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5919694,
+        "latitude": 46.7825399
+      }
+    },
+    "way-276472512": {
+      "sourceRef": "way/276472512",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Traian",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5922605,
+        "latitude": 46.7825315
+      }
+    },
+    "way-276472576": {
+      "sourceRef": "way/276472576",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "12",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Fericirii",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Căminul Subcultural",
+        "source": "survey"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5857078,
+        "latitude": 46.7825427
+      }
+    },
+    "way-276472912": {
+      "sourceRef": "way/276472912",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5916371,
+        "latitude": 46.7825535
+      }
+    },
+    "way-276472244": {
+      "sourceRef": "way/276472244",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fericirii",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5850804,
+        "latitude": 46.7825598
+      }
+    },
+    "way-276472398": {
+      "sourceRef": "way/276472398",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "14",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Fericirii",
+        "building": "house",
+        "building:levels": "2",
+        "source": "survey"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5855426,
+        "latitude": 46.7825776
+      }
+    },
+    "way-275799141": {
+      "sourceRef": "way/275799141",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5885398,
+        "latitude": 46.7826022
+      }
+    },
+    "way-276472488": {
+      "sourceRef": "way/276472488",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5893248,
+        "latitude": 46.7826179
+      }
+    },
+    "way-276472248": {
+      "sourceRef": "way/276472248",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5913259,
+        "latitude": 46.7826314
+      }
+    },
+    "way-276473127": {
+      "sourceRef": "way/276473127",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "47",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5841379,
+        "latitude": 46.7826274
+      }
+    },
+    "way-276472355": {
+      "sourceRef": "way/276472355",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5846242,
+        "latitude": 46.7826321
+      }
+    },
+    "way-1241880449": {
+      "sourceRef": "way/1241880449",
+      "tags": {
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5863415,
+        "latitude": 46.7826447
+      }
+    },
+    "way-276472409": {
+      "sourceRef": "way/276472409",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Traian",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5927989,
+        "latitude": 46.7826603
+      }
+    },
+    "way-276472329": {
+      "sourceRef": "way/276472329",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "79",
+        "addr:postcode": "400205",
+        "addr:street": "Strada Decebal",
+        "building": "yes",
+        "description": "magazin de amenajări interioare",
+        "name": "SAWA",
+        "shop": "doityourself",
+        "source": "survey",
+        "website": "https://www.sawa.ro/"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5900744,
+        "latitude": 46.7826569
+      }
+    },
+    "way-276472667": {
+      "sourceRef": "way/276472667",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5897361,
+        "latitude": 46.7826615
+      }
+    },
+    "way-276472740": {
+      "sourceRef": "way/276472740",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "16",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Fericirii",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5854897,
+        "latitude": 46.7826654
+      }
+    },
+    "way-276472769": {
+      "sourceRef": "way/276472769",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5917577,
+        "latitude": 46.7826674
+      }
+    },
+    "way-276472870": {
+      "sourceRef": "way/276472870",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.589028,
+        "latitude": 46.782664
+      }
+    },
+    "way-276472379": {
+      "sourceRef": "way/276472379",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fericirii",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5858252,
+        "latitude": 46.7826697
+      }
+    },
+    "way-276472911": {
+      "sourceRef": "way/276472911",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fericirii",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5857026,
+        "latitude": 46.7826663
+      }
+    },
+    "way-275799140": {
+      "sourceRef": "way/275799140",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Horea",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5878036,
+        "latitude": 46.7827311
+      }
+    },
+    "way-276472838": {
+      "sourceRef": "way/276472838",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fericirii",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5851047,
+        "latitude": 46.7826862
+      }
+    },
+    "way-276472867": {
+      "sourceRef": "way/276472867",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "27",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Câmpeni",
+        "building": "house",
+        "building:levels": "2",
+        "source": "survey"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.585969,
+        "latitude": 46.7827067
+      }
+    },
+    "way-276162750": {
+      "sourceRef": "way/276162750",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5866386,
+        "latitude": 46.7827065
+      }
+    },
+    "way-276473046": {
+      "sourceRef": "way/276473046",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5915097,
+        "latitude": 46.7827451
+      }
+    },
+    "way-276472787": {
+      "sourceRef": "way/276472787",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.590949,
+        "latitude": 46.7827135
+      }
+    },
+    "way-276473164": {
+      "sourceRef": "way/276473164",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5900956,
+        "latitude": 46.7827553
+      }
+    },
+    "way-276472831": {
+      "sourceRef": "way/276472831",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5918497,
+        "latitude": 46.7827722
+      }
+    },
+    "way-276472428": {
+      "sourceRef": "way/276472428",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5846368,
+        "latitude": 46.7827593
+      }
+    },
+    "way-276472585": {
+      "sourceRef": "way/276472585",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Traian",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5924482,
+        "latitude": 46.7827534
+      }
+    },
+    "way-276472223": {
+      "sourceRef": "way/276472223",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5914093,
+        "latitude": 46.7827909
+      }
+    },
+    "way-276472918": {
+      "sourceRef": "way/276472918",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "31",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Fericirii",
+        "building": "house",
+        "source": "survey"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5849218,
+        "latitude": 46.7828195
+      }
+    },
+    "way-276472212": {
+      "sourceRef": "way/276472212",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "49",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.584198,
+        "latitude": 46.7828313
+      }
+    },
+    "way-276473051": {
+      "sourceRef": "way/276473051",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5890315,
+        "latitude": 46.7828223
+      }
+    },
+    "way-323690015": {
+      "sourceRef": "way/323690015",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "18",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Fericirii",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5855445,
+        "latitude": 46.7828232
+      }
+    },
+    "way-276472361": {
+      "sourceRef": "way/276472361",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5895562,
+        "latitude": 46.7828481
+      }
+    },
+    "way-276472797": {
+      "sourceRef": "way/276472797",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5908831,
+        "latitude": 46.7828407
+      }
+    },
+    "way-276473113": {
+      "sourceRef": "way/276473113",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.584651,
+        "latitude": 46.7828491
+      }
+    },
+    "way-276472852": {
+      "sourceRef": "way/276472852",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "29",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Câmpeni",
+        "building": "house",
+        "source": "survey"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5860902,
+        "latitude": 46.7828708
+      }
+    },
+    "way-276472677": {
+      "sourceRef": "way/276472677",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fericirii",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5852616,
+        "latitude": 46.7828792
+      }
+    },
+    "way-276472401": {
+      "sourceRef": "way/276472401",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5900449,
+        "latitude": 46.7828866
+      }
+    },
+    "way-276472891": {
+      "sourceRef": "way/276472891",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5889257,
+        "latitude": 46.7828982
+      }
+    },
+    "way-276472386": {
+      "sourceRef": "way/276472386",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "20",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Fericirii",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5855122,
+        "latitude": 46.7829072
+      }
+    },
+    "way-276472584": {
+      "sourceRef": "way/276472584",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5911756,
+        "latitude": 46.7829198
+      }
+    },
+    "way-275799139": {
+      "sourceRef": "way/275799139",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5883869,
+        "latitude": 46.7829392
+      }
+    },
+    "way-276473092": {
+      "sourceRef": "way/276473092",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "33",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Fericirii",
+        "building": "house",
+        "source": "survey"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5848022,
+        "latitude": 46.7829504
+      }
+    },
+    "way-276472691": {
+      "sourceRef": "way/276472691",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5892558,
+        "latitude": 46.7829661
+      }
+    },
+    "way-276472200": {
+      "sourceRef": "way/276472200",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5889454,
+        "latitude": 46.7829728
+      }
+    },
+    "way-276472763": {
+      "sourceRef": "way/276472763",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5918092,
+        "latitude": 46.782951
+      }
+    },
+    "way-276472643": {
+      "sourceRef": "way/276472643",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5898463,
+        "latitude": 46.7829834
+      }
+    },
+    "way-276472367": {
+      "sourceRef": "way/276472367",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5919232,
+        "latitude": 46.7829613
+      }
+    },
+    "way-323690016": {
+      "sourceRef": "way/323690016",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "22",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Fericirii",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5852074,
+        "latitude": 46.7829824
+      }
+    },
+    "way-1204937096": {
+      "sourceRef": "way/1204937096",
+      "tags": {
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5909893,
+        "latitude": 46.7830123
+      }
+    },
+    "way-276472668": {
+      "sourceRef": "way/276472668",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5921407,
+        "latitude": 46.7830191
+      }
+    },
+    "way-276472646": {
+      "sourceRef": "way/276472646",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "53",
+        "addr:postcode": "400210",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Mecanicilor",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5844213,
+        "latitude": 46.7830491
+      }
+    },
+    "way-276472844": {
+      "sourceRef": "way/276472844",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Fericirii",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5854256,
+        "latitude": 46.7830474
+      }
+    },
+    "way-276472446": {
+      "sourceRef": "way/276472446",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "3",
+        "addr:postcode": "400217",
+        "addr:street": "Strada Kővári László",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5840817,
+        "latitude": 46.7830593
+      }
+    },
+    "way-259723462": {
+      "sourceRef": "way/259723462",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "2-4",
+        "addr:street": "Strada Ion Luca Caragiale",
+        "building": "apartments"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5867056,
+        "latitude": 46.7830655
+      }
+    },
+    "way-276472190": {
+      "sourceRef": "way/276472190",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "24",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Fericirii",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5851724,
+        "latitude": 46.7830679
+      }
+    },
+    "way-276472458": {
+      "sourceRef": "way/276472458",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Traian",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5927222,
+        "latitude": 46.7830603
+      }
+    },
+    "way-276472705": {
+      "sourceRef": "way/276472705",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "7",
+        "addr:postcode": "400217",
+        "addr:street": "Strada Kővári László",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.583907,
+        "latitude": 46.783106
+      }
+    },
+    "way-276473059": {
+      "sourceRef": "way/276473059",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Burebista",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5902565,
+        "latitude": 46.7831137
+      }
+    },
+    "way-276472531": {
+      "sourceRef": "way/276472531",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5843095,
+        "latitude": 46.7831371
+      }
+    },
+    "way-276982254": {
+      "sourceRef": "way/276982254",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "industrial",
+        "name": "Centrala Termică Caragiale",
+        "note": "In subsolul blocului Caragiale 2-8",
+        "phone": "Dispecerat RAT - 0264503709",
+        "website": "http://www.ratcj.ro"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5867269,
+        "latitude": 46.7831326
+      }
+    },
+    "way-276472752": {
+      "sourceRef": "way/276472752",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Burebista",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5895561,
+        "latitude": 46.7831231
+      }
+    },
+    "way-276473050": {
+      "sourceRef": "way/276473050",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5889533,
+        "latitude": 46.7831995
+      }
+    },
+    "way-276472549": {
+      "sourceRef": "way/276472549",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "26",
+        "addr:postcode": "400217",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Fericirii",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.584968,
+        "latitude": 46.7831814
+      }
+    },
+    "way-276473270": {
+      "sourceRef": "way/276473270",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Burebista",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5893609,
+        "latitude": 46.7831847
+      }
+    },
+    "way-1204937097": {
+      "sourceRef": "way/1204937097",
+      "tags": {
+        "building": "residential"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5910603,
+        "latitude": 46.783184
+      }
+    },
+    "way-276472574": {
+      "sourceRef": "way/276472574",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.592426,
+        "latitude": 46.7832091
+      }
+    },
+    "way-276472808": {
+      "sourceRef": "way/276472808",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5920834,
+        "latitude": 46.7831998
+      }
+    },
+    "way-275799138": {
+      "sourceRef": "way/275799138",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5883087,
+        "latitude": 46.7831881
+      }
+    },
+    "way-276472978": {
+      "sourceRef": "way/276472978",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5904831,
+        "latitude": 46.7832169
+      }
+    },
+    "way-262209817": {
+      "sourceRef": "way/262209817",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Horea",
+        "building": "apartments"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5872205,
+        "latitude": 46.7833138
+      }
+    },
+    "way-259723461": {
+      "sourceRef": "way/259723461",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "residential"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5863282,
+        "latitude": 46.7832625
+      }
+    },
+    "way-276472492": {
+      "sourceRef": "way/276472492",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Craiova",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5887048,
+        "latitude": 46.783262
+      }
+    },
+    "way-259723460": {
+      "sourceRef": "way/259723460",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "apartments"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5858001,
+        "latitude": 46.78333
+      }
+    },
+    "way-276473258": {
+      "sourceRef": "way/276473258",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Burebista",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5900263,
+        "latitude": 46.783334
+      }
+    },
+    "way-276473136": {
+      "sourceRef": "way/276473136",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Kővári László",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5838439,
+        "latitude": 46.7833327
+      }
+    },
+    "way-1204937098": {
+      "sourceRef": "way/1204937098",
+      "tags": {
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5913109,
+        "latitude": 46.7833598
+      }
+    },
+    "way-276472863": {
+      "sourceRef": "way/276472863",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "24",
+        "addr:street": "Strada Craiova",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5887368,
+        "latitude": 46.783353
+      }
+    },
+    "way-276472317": {
+      "sourceRef": "way/276472317",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Kővári László",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5839902,
+        "latitude": 46.7833611
+      }
+    },
+    "way-276472454": {
+      "sourceRef": "way/276472454",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5921926,
+        "latitude": 46.7833783
+      }
+    },
+    "way-276472185": {
+      "sourceRef": "way/276472185",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5924073,
+        "latitude": 46.7833971
+      }
+    },
+    "way-276472390": {
+      "sourceRef": "way/276472390",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Traian",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5930116,
+        "latitude": 46.7833754
+      }
+    },
+    "way-276472843": {
+      "sourceRef": "way/276472843",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5914134,
+        "latitude": 46.7834273
+      }
+    },
+    "way-276472626": {
+      "sourceRef": "way/276472626",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5846426,
+        "latitude": 46.783438
+      }
+    },
+    "way-276472928": {
+      "sourceRef": "way/276472928",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "26",
+        "addr:street": "Strada Craiova",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5886958,
+        "latitude": 46.7834333
+      }
+    },
+    "way-276472842": {
+      "sourceRef": "way/276472842",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Burebista",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5901483,
+        "latitude": 46.7834654
+      }
+    },
+    "way-275798311": {
+      "sourceRef": "way/275798311",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5862789,
+        "latitude": 46.7834903
+      }
+    },
+    "way-276472655": {
+      "sourceRef": "way/276472655",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Kővári László",
+        "building": "house"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.583978,
+        "latitude": 46.7835185
+      }
+    },
+    "way-276472987": {
+      "sourceRef": "way/276472987",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Burebista",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5898118,
+        "latitude": 46.7835202
+      }
+    },
+    "way-276472992": {
+      "sourceRef": "way/276472992",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.591499,
+        "latitude": 46.7835266
+      }
+    },
+    "way-276472332": {
+      "sourceRef": "way/276472332",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5906663,
+        "latitude": 46.7835386
+      }
+    },
+    "way-276472195": {
+      "sourceRef": "way/276472195",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5916627,
+        "latitude": 46.7836116
+      }
+    },
+    "way-276473209": {
+      "sourceRef": "way/276473209",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5926326,
+        "latitude": 46.7836095
+      }
+    },
+    "way-276472371": {
+      "sourceRef": "way/276472371",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "7",
+        "addr:postcode": "400201",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Piața Gării",
+        "amenity": "police",
+        "building": "office",
+        "description": "Secția regională de poliție transporturi Cluj",
+        "name": "Secția regională de poliție transporturi Cluj"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5846467,
+        "latitude": 46.7836276
+      }
+    },
+    "way-275799135": {
+      "sourceRef": "way/275799135",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Horea",
+        "building": "residential",
+        "building:levels": "6"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5879336,
+        "latitude": 46.783634
+      }
+    },
+    "way-276472680": {
+      "sourceRef": "way/276472680",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Traian",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.593275,
+        "latitude": 46.7836653
+      }
+    },
+    "way-276472699": {
+      "sourceRef": "way/276472699",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5921542,
+        "latitude": 46.783644
+      }
+    },
+    "way-1049895024": {
+      "sourceRef": "way/1049895024",
+      "tags": {
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5850391,
+        "latitude": 46.7836559
+      }
+    },
+    "way-276472599": {
+      "sourceRef": "way/276472599",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5924637,
+        "latitude": 46.7836766
+      }
+    },
+    "way-259723465": {
+      "sourceRef": "way/259723465",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Burebista",
+        "building": "apartments"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5891354,
+        "latitude": 46.7837166
+      }
+    },
+    "way-259723463": {
+      "sourceRef": "way/259723463",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "28-30",
+        "addr:street": "Strada Craiova",
+        "building": "apartments"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5883596,
+        "latitude": 46.7837188
+      }
+    },
+    "way-276473123": {
+      "sourceRef": "way/276473123",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5925316,
+        "latitude": 46.7837367
+      }
+    },
+    "way-275798312": {
+      "sourceRef": "way/275798312",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.586376,
+        "latitude": 46.7837452
+      }
+    },
+    "way-276472660": {
+      "sourceRef": "way/276472660",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5918226,
+        "latitude": 46.7837643
+      }
+    },
+    "way-1165345143": {
+      "sourceRef": "way/1165345143",
+      "tags": {
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.589511,
+        "latitude": 46.7837917
+      }
+    },
+    "way-275799134": {
+      "sourceRef": "way/275799134",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Horea",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5872741,
+        "latitude": 46.7837943
+      }
+    },
+    "way-276472211": {
+      "sourceRef": "way/276472211",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5909246,
+        "latitude": 46.7837874
+      }
+    },
+    "way-276473144": {
+      "sourceRef": "way/276473144",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5919522,
+        "latitude": 46.7838305
+      }
+    },
+    "way-276472515": {
+      "sourceRef": "way/276472515",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.592886,
+        "latitude": 46.7838525
+      }
+    },
+    "way-276472991": {
+      "sourceRef": "way/276472991",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.591154,
+        "latitude": 46.7838867
+      }
+    },
+    "way-276472656": {
+      "sourceRef": "way/276472656",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5926018,
+        "latitude": 46.7839159
+      }
+    },
+    "way-1165345144": {
+      "sourceRef": "way/1165345144",
+      "tags": {
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5900437,
+        "latitude": 46.7839037
+      }
+    },
+    "way-276472726": {
+      "sourceRef": "way/276472726",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5929404,
+        "latitude": 46.7839275
+      }
+    },
+    "way-275799133": {
+      "sourceRef": "way/275799133",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5870634,
+        "latitude": 46.7839334
+      }
+    },
+    "way-276472925": {
+      "sourceRef": "way/276472925",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Burebista",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5894497,
+        "latitude": 46.783925
+      }
+    },
+    "way-259723464": {
+      "sourceRef": "way/259723464",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "28-30",
+        "addr:street": "Strada Craiova",
+        "building": "apartments"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5885976,
+        "latitude": 46.7839573
+      }
+    },
+    "way-276472744": {
+      "sourceRef": "way/276472744",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5919836,
+        "latitude": 46.7839792
+      }
+    },
+    "way-276982475": {
+      "sourceRef": "way/276982475",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "industrial",
+        "name": "Centrala Termică Craiova",
+        "note": "La subsolul blocului Craiova 28-30/B",
+        "phone": "Dispecerat RAT - 0264503709",
+        "website": "www.ratcj.ro"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5887424,
+        "latitude": 46.7839821
+      }
+    },
+    "way-276175862": {
+      "sourceRef": "way/276175862",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "6",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5838626,
+        "latitude": 46.7839893
+      }
+    },
+    "way-276472604": {
+      "sourceRef": "way/276472604",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5928113,
+        "latitude": 46.7839887
+      }
+    },
+    "way-276472849": {
+      "sourceRef": "way/276472849",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5925806,
+        "latitude": 46.7840397
+      }
+    },
+    "way-276473131": {
+      "sourceRef": "way/276473131",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.592924,
+        "latitude": 46.7840449
+      }
+    },
+    "way-276175885": {
+      "sourceRef": "way/276175885",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "4",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5843948,
+        "latitude": 46.7840382
+      }
+    },
+    "way-276472715": {
+      "sourceRef": "way/276472715",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5920465,
+        "latitude": 46.7840567
+      }
+    },
+    "way-276472706": {
+      "sourceRef": "way/276472706",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5927271,
+        "latitude": 46.7840666
+      }
+    },
+    "way-276472422": {
+      "sourceRef": "way/276472422",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Burebista",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5898719,
+        "latitude": 46.7840759
+      }
+    },
+    "way-276473148": {
+      "sourceRef": "way/276473148",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5912953,
+        "latitude": 46.7840849
+      }
+    },
+    "way-895236157": {
+      "sourceRef": "way/895236157",
+      "tags": {
+        "amenity": "shelter",
+        "bench": "yes",
+        "bin": "yes",
+        "building": "yes",
+        "lit": "yes",
+        "shelter_type": "public_transport"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/transit-stops/README.md"
+      ],
+      "location": {
+        "longitude": 23.5865211,
+        "latitude": 46.7840935
+      },
+      "notes": [
+        "Transit-stop artwork: reconstructed from data/telegram-cloud-document-4-5895527386165814411.mp4 using built-in image_gen, with each map projection as a geometry guide. Original identity and ground center retained. Uniform size scale 1.5 applied at the user's request. Base roof height 2.7 m is an estimate from the video; unseen details are reconstructed."
+      ],
+      "dimensions": {
+        "footprintLengthMeters": 6.755,
+        "footprintDepthMeters": 2.507,
+        "estimatedRoofHeightMeters": 4.050000000000001,
+        "sizeScale": 1.5
+      }
+    },
+    "way-276472544": {
+      "sourceRef": "way/276472544",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5923912,
+        "latitude": 46.78411
+      }
+    },
+    "way-276472837": {
+      "sourceRef": "way/276472837",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5921318,
+        "latitude": 46.7841501
+      }
+    },
+    "way-275798314": {
+      "sourceRef": "way/275798314",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "1-3",
+        "addr:street": "Piața Gării",
+        "amenity": "post_depot",
+        "building": "commercial",
+        "building:levels": "3",
+        "name": "Oficiul Poștal Zonal și de Distribuire Cluj-Napoca",
+        "operator": "Poșta Română"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.585016,
+        "latitude": 46.7841506
+      }
+    },
+    "way-276472356": {
+      "sourceRef": "way/276472356",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5907486,
+        "latitude": 46.7841909
+      }
+    },
+    "way-276472501": {
+      "sourceRef": "way/276472501",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5915938,
+        "latitude": 46.784174
+      }
+    },
+    "way-276472631": {
+      "sourceRef": "way/276472631",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5922378,
+        "latitude": 46.7842189
+      }
+    },
+    "way-1089443452": {
+      "sourceRef": "way/1089443452",
+      "tags": {
+        "building": "yes",
+        "name": "CTP Cluj",
+        "shop": "ticket"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/transit-stops/README.md"
+      ],
+      "location": {
+        "longitude": 23.588724,
+        "latitude": 46.7842189
+      },
+      "notes": [
+        "Transit-stop artwork: reconstructed from data/telegram-cloud-document-4-5895527386165814411.mp4 using built-in image_gen, with each map projection as a geometry guide. Original identity and ground center retained. Uniform size scale 1.5 applied at the user's request. Base roof height 3 m is an estimate from the video; unseen details are reconstructed."
+      ],
+      "dimensions": {
+        "footprintLengthMeters": 15.096,
+        "footprintDepthMeters": 5.334,
+        "estimatedRoofHeightMeters": 4.5,
+        "sizeScale": 1.5
+      }
+    },
+    "way-259723466": {
+      "sourceRef": "way/259723466",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Burebista",
+        "building": "apartments"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5893014,
+        "latitude": 46.7842479
+      }
+    },
+    "way-276472554": {
+      "sourceRef": "way/276472554",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Burebista",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5900327,
+        "latitude": 46.7842275
+      }
+    },
+    "way-276472635": {
+      "sourceRef": "way/276472635",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5923748,
+        "latitude": 46.7842903
+      }
+    },
+    "way-276473190": {
+      "sourceRef": "way/276473190",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.591106,
+        "latitude": 46.7843024
+      }
+    },
+    "train-station": {
+      "sourceRef": "way/262209819",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housename": "Gara CFR Cluj",
+        "addr:housenumber": "1-3",
+        "addr:street": "Piața Gării",
+        "alt_name": "Gara Mare Cluj-Napoca;Gara Centrala Cluj-Napoca;Gara CFR Cluj-Napoca",
+        "building": "train_station",
+        "building:levels": "1",
+        "name": "Gara Cluj-Napoca",
+        "name:de": "Großer Bahnhof",
+        "name:en": "Cluj-Napoca train station",
+        "name:hu": "Vasútállomás",
+        "name:ro": "Gara Mare",
+        "roof:levels": "0",
+        "wikidata": "Q719043",
+        "wikipedia": "ro:Gara Cluj Napoca"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/osm/map-authoring.json"
+      ],
+      "location": {
+        "longitude": 23.5863683,
+        "latitude": 46.7843154
+      },
+      "notes": [
+        "OSM maps one level but not the varied historic roof/pavilion height; conservative gameplay-art approximation."
+      ]
+    },
+    "way-276472931": {
+      "sourceRef": "way/276472931",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5919134,
+        "latitude": 46.7843718
+      }
+    },
+    "way-276473146": {
+      "sourceRef": "way/276473146",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5899971,
+        "latitude": 46.7843694
+      }
+    },
+    "way-276473073": {
+      "sourceRef": "way/276473073",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5916993,
+        "latitude": 46.7843959
+      }
+    },
+    "way-276473000": {
+      "sourceRef": "way/276473000",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5907387,
+        "latitude": 46.7844257
+      }
+    },
+    "way-276473088": {
+      "sourceRef": "way/276473088",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5895417,
+        "latitude": 46.7844251
+      }
+    },
+    "way-276472902": {
+      "sourceRef": "way/276472902",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5908295,
+        "latitude": 46.784498
+      }
+    },
+    "way-276472357": {
+      "sourceRef": "way/276472357",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5904273,
+        "latitude": 46.7845045
+      }
+    },
+    "way-276472703": {
+      "sourceRef": "way/276472703",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5919686,
+        "latitude": 46.7845307
+      }
+    },
+    "way-276473021": {
+      "sourceRef": "way/276473021",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5900732,
+        "latitude": 46.7845309
+      }
+    },
+    "way-276472853": {
+      "sourceRef": "way/276472853",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5921312,
+        "latitude": 46.7845329
+      }
+    },
+    "way-838964280": {
+      "sourceRef": "way/838964280",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5904711,
+        "latitude": 46.7845776
+      }
+    },
+    "way-276472855": {
+      "sourceRef": "way/276472855",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5917924,
+        "latitude": 46.7845804
+      }
+    },
+    "way-276472573": {
+      "sourceRef": "way/276472573",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.593005,
+        "latitude": 46.784597
+      }
+    },
+    "way-276473118": {
+      "sourceRef": "way/276473118",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5916111,
+        "latitude": 46.784612
+      }
+    },
+    "way-276473208": {
+      "sourceRef": "way/276473208",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.590598,
+        "latitude": 46.7846168
+      }
+    },
+    "way-276473057": {
+      "sourceRef": "way/276473057",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5921996,
+        "latitude": 46.7846115
+      }
+    },
+    "way-276472589": {
+      "sourceRef": "way/276472589",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5909522,
+        "latitude": 46.7846405
+      }
+    },
+    "way-276473009": {
+      "sourceRef": "way/276473009",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5911625,
+        "latitude": 46.7846422
+      }
+    },
+    "way-276175863": {
+      "sourceRef": "way/276175863",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5838256,
+        "latitude": 46.7846451
+      }
+    },
+    "way-275493607": {
+      "sourceRef": "way/275493607",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "1-3",
+        "addr:street": "Piața Gării",
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "brand:wikipedia": "fr:Carrefour Market",
+        "building": "yes",
+        "check_date": "2024-07-13",
+        "name": "Carrefour Market",
+        "old_name": "Gara Mica",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 07:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:meal_voucher": "yes",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/osm/map-authoring.json",
+        "sources/buildings/way-275493607/realistic/registration.json"
+      ],
+      "location": {
+        "longitude": 23.5884307,
+        "latitude": 46.7846559
+      },
+      "notes": [
+        "Approximate two-storey visual framing for Gara Mică; no authoritative open height found.",
+        "Realistic artwork adapted from the supplied supermarket images; five transparent views registered to the existing map position. Generated architecture and perspective are approximate."
+      ]
+    },
+    "way-276472517": {
+      "sourceRef": "way/276472517",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5923249,
+        "latitude": 46.7846672
+      }
+    },
+    "way-276472220": {
+      "sourceRef": "way/276472220",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5932503,
+        "latitude": 46.7846885
+      }
+    },
+    "way-276175851": {
+      "sourceRef": "way/276175851",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5840183,
+        "latitude": 46.784717
+      }
+    },
+    "way-276472629": {
+      "sourceRef": "way/276472629",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.592428,
+        "latitude": 46.7846995
+      }
+    },
+    "way-276472246": {
+      "sourceRef": "way/276472246",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.591632,
+        "latitude": 46.7847511
+      }
+    },
+    "way-276472778": {
+      "sourceRef": "way/276472778",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5926053,
+        "latitude": 46.7847945
+      }
+    },
+    "way-276175869": {
+      "sourceRef": "way/276175869",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5844167,
+        "latitude": 46.7848177
+      }
+    },
+    "way-276472237": {
+      "sourceRef": "way/276472237",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.592457,
+        "latitude": 46.7848387
+      }
+    },
+    "way-276472533": {
+      "sourceRef": "way/276472533",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Strada Decebal",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5920159,
+        "latitude": 46.7848668
+      }
+    },
+    "way-276472219": {
+      "sourceRef": "way/276472219",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5927917,
+        "latitude": 46.784924
+      }
+    },
+    "way-276175856": {
+      "sourceRef": "way/276175856",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "industrial"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5850257,
+        "latitude": 46.7849332
+      }
+    },
+    "way-276175854": {
+      "sourceRef": "way/276175854",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "industrial"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5853594,
+        "latitude": 46.784938
+      }
+    },
+    "way-276175858": {
+      "sourceRef": "way/276175858",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "industrial"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.586078,
+        "latitude": 46.7851086
+      }
+    },
+    "way-276175859": {
+      "sourceRef": "way/276175859",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "industrial"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5868299,
+        "latitude": 46.785131
+      }
+    },
+    "way-276175877": {
+      "sourceRef": "way/276175877",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "industrial"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5864195,
+        "latitude": 46.7851739
+      }
+    },
+    "way-276175876": {
+      "sourceRef": "way/276175876",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5872774,
+        "latitude": 46.7852372
+      }
+    },
+    "way-276175849": {
+      "sourceRef": "way/276175849",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes",
+        "name": "Secția L3"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5880099,
+        "latitude": 46.7854285
+      }
+    },
+    "way-276175865": {
+      "sourceRef": "way/276175865",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5889408,
+        "latitude": 46.7855667
+      }
+    },
+    "way-276175886": {
+      "sourceRef": "way/276175886",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5895144,
+        "latitude": 46.7855848
+      }
+    },
+    "way-1151051269": {
+      "sourceRef": "way/1151051269",
+      "tags": {
+        "building": "warehouse"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5866434,
+        "latitude": 46.7856278
+      }
+    },
+    "way-276175861": {
+      "sourceRef": "way/276175861",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5895203,
+        "latitude": 46.7856531
+      }
+    },
+    "way-276175884": {
+      "sourceRef": "way/276175884",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5898306,
+        "latitude": 46.7856881
+      }
+    },
+    "way-276175879": {
+      "sourceRef": "way/276175879",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5901419,
+        "latitude": 46.785723
+      }
+    },
+    "way-276175881": {
+      "sourceRef": "way/276175881",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5892367,
+        "latitude": 46.7857711
+      }
+    },
+    "way-276175857": {
+      "sourceRef": "way/276175857",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5903506,
+        "latitude": 46.7858225
+      }
+    },
+    "way-439032989": {
+      "sourceRef": "way/439032989",
+      "tags": {
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5876342,
+        "latitude": 46.7858556
+      }
+    },
+    "way-276175867": {
+      "sourceRef": "way/276175867",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5906416,
+        "latitude": 46.7858956
+      }
+    },
+    "way-276175855": {
+      "sourceRef": "way/276175855",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5899178,
+        "latitude": 46.7859245
+      }
+    },
+    "way-439033033": {
+      "sourceRef": "way/439033033",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:housenumber": "9A",
+        "addr:street": "Strada Fabricii de Chibrituri",
+        "building": "yes",
+        "name": "Centrul de Interes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5869309,
+        "latitude": 46.7859168
+      }
+    },
+    "way-276175853": {
+      "sourceRef": "way/276175853",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:street": "Piața Gării",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5909855,
+        "latitude": 46.7859537
+      }
+    },
+    "way-156452299": {
+      "sourceRef": "way/156452299",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "addr:housenumber": "5-11",
+        "addr:postcode": "400254",
+        "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+        "addr:street": "Strada Fabricii de Chibrituri",
+        "brand": "Dedeman",
+        "brand:wikidata": "Q5249762",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Dedeman",
+        "opening_hours": "Mo-Fr 08:30-20:00;Sa 08:00-21:00;Su 09:00-18:00",
+        "operator": "Dedeman",
+        "phone": "+40 234 525 525",
+        "shop": "doityourself",
+        "website": "https://www.dedeman.ro/"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5846934,
+        "latitude": 46.7859767
+      }
+    },
+    "way-1537920508": {
+      "sourceRef": "way/1537920508",
+      "tags": {
+        "building": "commercial",
+        "name": "Mobila ABC",
+        "shop": "furniture"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5878396,
+        "latitude": 46.7860809
+      }
+    },
+    "way-439033016": {
+      "sourceRef": "way/439033016",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5886466,
+        "latitude": 46.7861869
+      }
+    },
+    "way-439032976": {
+      "sourceRef": "way/439032976",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5883301,
+        "latitude": 46.7861924
+      }
+    },
+    "way-1314623007": {
+      "sourceRef": "way/1314623007",
+      "tags": {
+        "building": "construction",
+        "building:levels": "11",
+        "construction": "apartments",
+        "name": "ERA Roots"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5870635,
+        "latitude": 46.7862654
+      }
+    },
+    "way-1537920534": {
+      "sourceRef": "way/1537920534",
+      "tags": {
+        "building": "construction",
+        "name": "Lidl"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5863279,
+        "latitude": 46.7862691
+      }
+    },
+    "way-439032995": {
+      "sourceRef": "way/439032995",
+      "tags": {
+        "addr:city": "Cluj-Napoca",
+        "addr:country": "RO",
+        "building": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5885479,
+        "latitude": 46.7862998
+      }
+    },
+    "canopy:canopy-platform-1": {
+      "sourceRef": "way/262209819",
+      "tags": {
+        "name": "Peronul 1",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "train": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/osm/map-authoring.json",
+        "sources/art/canopies.json"
+      ],
+      "location": {
+        "longitude": 23.5863608,
+        "latitude": 46.7844417
+      },
+      "notes": [
+        "Existing station-attached kit: curved fascia, front columns, coffered underside and two roof-material variants. Rear edge meets the mapped station facade.",
+        "Supports meet the raised platform; the same textured 3D geometry is projected through all five map cameras.",
+        "Nominal structural dimensions are reconstructed from existing assets, not surveyed."
+      ],
+      "dimensions": {
+        "Length (m)": 101.79657710471972,
+        "Nominal width (m)": 8.42746356199023,
+        "Nominal height (m)": 4.74,
+        "Support columns": 17
+      }
+    },
+    "canopy:canopy-platform-2-3": {
+      "sourceRef": "way/215798526",
+      "tags": {
+        "area": "yes",
+        "level": "0",
+        "name": "Peronul 2;3",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2;3"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/osm/map-authoring.json",
+        "sources/art/canopies.json"
+      ],
+      "location": {
+        "longitude": 23.5870453,
+        "latitude": 46.7847104
+      },
+      "notes": [
+        "Existing photo-refined concrete canopy re-centered over the actual Peronul 2;3 footprint, preserving its authored length.",
+        "Supports meet the raised platform; the same textured 3D geometry is projected through all five map cameras.",
+        "Nominal structural dimensions are reconstructed from existing assets, not surveyed."
+      ],
+      "dimensions": {
+        "Length (m)": 244.15839915920063,
+        "Nominal width (m)": 4.8,
+        "Nominal height (m)": 5.1899999999999995,
+        "Support columns": 42
+      }
+    },
+    "canopy:canopy-platform-4-5": {
+      "sourceRef": "way/215798532",
+      "tags": {
+        "area": "yes",
+        "level": "0",
+        "name": "Peronul 4;5",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "4;5"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/osm/map-authoring.json",
+        "sources/art/canopies.json"
+      ],
+      "location": {
+        "longitude": 23.5864602,
+        "latitude": 46.7847322
+      },
+      "notes": [
+        "Concrete canopy refined from the three photos in data/copertina: curved T-heads, terminal fascia, brown painted bases and CLUJ-NAPOCA end plaque.",
+        "Existing authored endpoints retained; nominal width, height and approximately 6 m support spacing are reconstructed, not surveyed.",
+        "Roof artwork reused; shared 3D geometry and photo-informed image_gen materials rendered through the five actual map cameras."
+      ],
+      "dimensions": {
+        "Length (m)": 241.67265516098814,
+        "Nominal width (m)": 4.8,
+        "Nominal height (m)": 4.64,
+        "Support columns": 41
+      }
+    },
+    "canopy:canopy-platform-6-7": {
+      "sourceRef": "way/1416233688",
+      "tags": {
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "6;7",
+        "train": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/osm/map-authoring.json"
+      ],
+      "location": {
+        "longitude": 23.5866197,
+        "latitude": 46.78491
+      },
+      "notes": [
+        "Authored canopy approximation aligned to the referenced mapped platform."
+      ],
+      "dimensions": {
+        "Authored width (m)": 7
+      }
+    },
+    "entrance:node/6451920141": {
+      "sourceRef": "node/6451920141",
+      "tags": {
+        "entrance": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5870084,
+        "latitude": 46.7845499
+      }
+    },
+    "entrance:node/6451920142": {
+      "sourceRef": "node/6451920142",
+      "tags": {
+        "entrance": "main"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5864334,
+        "latitude": 46.7842342
+      }
+    },
+    "entrance:node/8312197787": {
+      "sourceRef": "node/8312197787",
+      "tags": {
+        "entrance": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5863711,
+        "latitude": 46.7844044
+      }
+    },
+    "entrance:node/11542874196": {
+      "sourceRef": "node/11542874196",
+      "tags": {
+        "entrance": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5856967,
+        "latitude": 46.7825042
+      }
+    },
+    "entrance:node/11542874197": {
+      "sourceRef": "node/11542874197",
+      "tags": {
+        "entrance": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5858127,
+        "latitude": 46.7825807
+      }
+    },
+    "entrance:node/11654679703": {
+      "sourceRef": "node/11654679703",
+      "tags": {
+        "entrance": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5861304,
+        "latitude": 46.7842141
+      }
+    },
+    "barrier:way/1049896267": {
+      "sourceRef": "way/1049896267",
+      "tags": {
+        "barrier": "fence"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5849319,
+        "latitude": 46.783549
+      }
+    },
+    "barrier:way/1151051265": {
+      "sourceRef": "way/1151051265",
+      "tags": {
+        "barrier": "fence"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5871229,
+        "latitude": 46.7857869
+      }
+    },
+    "barrier:way/1151051270": {
+      "sourceRef": "way/1151051270",
+      "tags": {
+        "barrier": "fence"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5851642,
+        "latitude": 46.7851932
+      }
+    },
+    "barrier:way/1163811084": {
+      "sourceRef": "way/1163811084",
+      "tags": {
+        "barrier": "fence"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5856337,
+        "latitude": 46.7824072
+      }
+    },
+    "barrier:way/1163811085": {
+      "sourceRef": "way/1163811085",
+      "tags": {
+        "barrier": "fence"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5859769,
+        "latitude": 46.7825317
+      }
+    },
+    "barrier:way/1180201394": {
+      "sourceRef": "way/1180201394",
+      "tags": {
+        "barrier": "wall"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5905442,
+        "latitude": 46.7848005
+      }
+    },
+    "tree:node/4154789224": {
+      "sourceRef": "node/4154789224",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5873015,
+        "latitude": 46.7821712
+      }
+    },
+    "tree:node/4154789225": {
+      "sourceRef": "node/4154789225",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5876408,
+        "latitude": 46.7821684
+      }
+    },
+    "tree:node/4154789226": {
+      "sourceRef": "node/4154789226",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5873163,
+        "latitude": 46.7824008
+      }
+    },
+    "tree:node/4154789227": {
+      "sourceRef": "node/4154789227",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5876556,
+        "latitude": 46.7823897
+      }
+    },
+    "tree:node/4154789228": {
+      "sourceRef": "node/4154789228",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5873284,
+        "latitude": 46.7825863
+      }
+    },
+    "tree:node/4154789229": {
+      "sourceRef": "node/4154789229",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.587673,
+        "latitude": 46.7825771
+      }
+    },
+    "tree:node/4154789230": {
+      "sourceRef": "node/4154789230",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5873418,
+        "latitude": 46.7829701
+      }
+    },
+    "tree:node/4154789231": {
+      "sourceRef": "node/4154789231",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5877092,
+        "latitude": 46.78296
+      }
+    },
+    "tree:node/4154789232": {
+      "sourceRef": "node/4154789232",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5873492,
+        "latitude": 46.7831682
+      }
+    },
+    "tree:node/4154789233": {
+      "sourceRef": "node/4154789233",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5877328,
+        "latitude": 46.7831724
+      }
+    },
+    "tree:node/4154789234": {
+      "sourceRef": "node/4154789234",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5877298,
+        "latitude": 46.783396
+      }
+    },
+    "tree:node/4154789235": {
+      "sourceRef": "node/4154789235",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5873585,
+        "latitude": 46.7834066
+      }
+    },
+    "tree:node/4154789236": {
+      "sourceRef": "node/4154789236",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5873677,
+        "latitude": 46.7836882
+      }
+    },
+    "tree:node/4154789237": {
+      "sourceRef": "node/4154789237",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.587739,
+        "latitude": 46.7836967
+      }
+    },
+    "tree:node/4154789242": {
+      "sourceRef": "node/4154789242",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5877378,
+        "latitude": 46.7837662
+      }
+    },
+    "tree:node/4154789243": {
+      "sourceRef": "node/4154789243",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.587892,
+        "latitude": 46.7837919
+      }
+    },
+    "tree:node/4154789244": {
+      "sourceRef": "node/4154789244",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.588057,
+        "latitude": 46.7838231
+      }
+    },
+    "tree:node/4154789245": {
+      "sourceRef": "node/4154789245",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5876989,
+        "latitude": 46.7839462
+      }
+    },
+    "tree:node/4154789246": {
+      "sourceRef": "node/4154789246",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5878303,
+        "latitude": 46.7839746
+      }
+    },
+    "tree:node/4154789247": {
+      "sourceRef": "node/4154789247",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5879484,
+        "latitude": 46.7839948
+      }
+    },
+    "tree:node/4154789248": {
+      "sourceRef": "node/4154789248",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5877083,
+        "latitude": 46.783858
+      }
+    },
+    "tree:node/4154789249": {
+      "sourceRef": "node/4154789249",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5879913,
+        "latitude": 46.783915
+      }
+    },
+    "tree:node/4154789250": {
+      "sourceRef": "node/4154789250",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5873797,
+        "latitude": 46.7838332
+      }
+    },
+    "tree:node/4154789251": {
+      "sourceRef": "node/4154789251",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.587373,
+        "latitude": 46.7839746
+      }
+    },
+    "tree:node/4154789257": {
+      "sourceRef": "node/4154789257",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5873931,
+        "latitude": 46.7844494
+      }
+    },
+    "tree:node/4154789258": {
+      "sourceRef": "node/4154789258",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.587378,
+        "latitude": 46.7844897
+      }
+    },
+    "tree:node/4154789259": {
+      "sourceRef": "node/4154789259",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5873653,
+        "latitude": 46.7845278
+      }
+    },
+    "tree:node/4154789260": {
+      "sourceRef": "node/4154789260",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5874116,
+        "latitude": 46.7845351
+      }
+    },
+    "tree:node/4154789261": {
+      "sourceRef": "node/4154789261",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5874665,
+        "latitude": 46.7845455
+      }
+    },
+    "tree:node/4154789262": {
+      "sourceRef": "node/4154789262",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5874373,
+        "latitude": 46.7844536
+      }
+    },
+    "tree:node/4154789263": {
+      "sourceRef": "node/4154789263",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5874817,
+        "latitude": 46.7844624
+      }
+    },
+    "tree:node/4154789264": {
+      "sourceRef": "node/4154789264",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5875144,
+        "latitude": 46.7845535
+      }
+    },
+    "tree:node/4154789265": {
+      "sourceRef": "node/4154789265",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5875319,
+        "latitude": 46.7844712
+      }
+    },
+    "tree:node/4154789266": {
+      "sourceRef": "node/4154789266",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5879533,
+        "latitude": 46.7846303
+      }
+    },
+    "tree:node/4154789267": {
+      "sourceRef": "node/4154789267",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5879708,
+        "latitude": 46.7845903
+      }
+    },
+    "tree:node/4154789268": {
+      "sourceRef": "node/4154789268",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.587986,
+        "latitude": 46.7845463
+      }
+    },
+    "tree:node/4154789269": {
+      "sourceRef": "node/4154789269",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5879008,
+        "latitude": 46.7846223
+      }
+    },
+    "tree:node/4154789270": {
+      "sourceRef": "node/4154789270",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5878471,
+        "latitude": 46.7846127
+      }
+    },
+    "tree:node/4154789271": {
+      "sourceRef": "node/4154789271",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5877992,
+        "latitude": 46.7846047
+      }
+    },
+    "tree:node/4154789272": {
+      "sourceRef": "node/4154789272",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5878319,
+        "latitude": 46.7845167
+      }
+    },
+    "tree:node/4154789273": {
+      "sourceRef": "node/4154789273",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5878833,
+        "latitude": 46.7845239
+      }
+    },
+    "tree:node/4154789274": {
+      "sourceRef": "node/4154789274",
+      "tags": {
+        "denotation": "urban",
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.587937,
+        "latitude": 46.7845351
+      }
+    },
+    "tree:node/10823759781": {
+      "sourceRef": "node/10823759781",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5856746,
+        "latitude": 46.782433
+      }
+    },
+    "tree:node/10823759782": {
+      "sourceRef": "node/10823759782",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5858567,
+        "latitude": 46.7824059
+      }
+    },
+    "tree:node/10823759783": {
+      "sourceRef": "node/10823759783",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5859174,
+        "latitude": 46.7824978
+      }
+    },
+    "tree:node/10823759784": {
+      "sourceRef": "node/10823759784",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5859509,
+        "latitude": 46.7825462
+      }
+    },
+    "tree:node/10823759785": {
+      "sourceRef": "node/10823759785",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5857108,
+        "latitude": 46.7824099
+      }
+    },
+    "tree:node/11379709968": {
+      "sourceRef": "node/11379709968",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5932951,
+        "latitude": 46.7824606
+      }
+    },
+    "tree:node/11379709974": {
+      "sourceRef": "node/11379709974",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5932866,
+        "latitude": 46.7822912
+      }
+    },
+    "tree:node/11414343087": {
+      "sourceRef": "node/11414343087",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5925864,
+        "latitude": 46.7821368
+      }
+    },
+    "tree:node/11414343088": {
+      "sourceRef": "node/11414343088",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5926495,
+        "latitude": 46.7821414
+      }
+    },
+    "tree:node/11414343089": {
+      "sourceRef": "node/11414343089",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5927132,
+        "latitude": 46.7821455
+      }
+    },
+    "tree:node/11414343090": {
+      "sourceRef": "node/11414343090",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5927755,
+        "latitude": 46.7821506
+      }
+    },
+    "tree:node/13654524985": {
+      "sourceRef": "node/13654524985",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5856031,
+        "latitude": 46.7840818
+      }
+    },
+    "tree:node/13654524986": {
+      "sourceRef": "node/13654524986",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5856981,
+        "latitude": 46.7840985
+      }
+    },
+    "tree:node/13654524987": {
+      "sourceRef": "node/13654524987",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5857812,
+        "latitude": 46.7841132
+      }
+    },
+    "tree:node/13654524988": {
+      "sourceRef": "node/13654524988",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5858715,
+        "latitude": 46.7841291
+      }
+    },
+    "tree:node/13654524991": {
+      "sourceRef": "node/13654524991",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5866447,
+        "latitude": 46.7842587
+      }
+    },
+    "tree:node/13654524992": {
+      "sourceRef": "node/13654524992",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5867243,
+        "latitude": 46.7842717
+      }
+    },
+    "tree:node/13654524993": {
+      "sourceRef": "node/13654524993",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5868097,
+        "latitude": 46.7842857
+      }
+    },
+    "tree:node/13654524994": {
+      "sourceRef": "node/13654524994",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.586903,
+        "latitude": 46.7843011
+      }
+    },
+    "tree:node/13654524995": {
+      "sourceRef": "node/13654524995",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5870052,
+        "latitude": 46.7843178
+      }
+    },
+    "tree:node/13654524996": {
+      "sourceRef": "node/13654524996",
+      "tags": {
+        "natural": "tree"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5870929,
+        "latitude": 46.7843322
+      }
+    },
+    "prop:node/258987961": {
+      "sourceRef": "node/258987961",
+      "tags": {
+        "name": "Cluj Napoca",
+        "name:de": "Klausenburg",
+        "name:en": "Cluj-Napoca",
+        "name:hu": "Kolozsvár",
+        "operator": "CFR",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Cluj Napoca",
+        "uic_ref": "5300027",
+        "wikidata": "Q59615300",
+        "wikipedia": "ro:Gara Cluj Napoca"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5861692,
+        "latitude": 46.7846249
+      }
+    },
+    "prop:node/429913389": {
+      "sourceRef": "node/429913389",
+      "tags": {
+        "name": "Piața Gării Vechi",
+        "name:hu": "Vasútállomás",
+        "name:ro": "Piața Gării Vechi",
+        "operator": "CTP Cluj-Napoca",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5884951,
+        "latitude": 46.7843472
+      }
+    },
+    "prop:node/429919283": {
+      "sourceRef": "node/429919283",
+      "tags": {
+        "bus": "yes",
+        "name": "Piața Gării Sud",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/signals.json"
+      ],
+      "location": {
+        "longitude": 23.58841106371604,
+        "latitude": 46.784284293623166
+      },
+      "notes": [
+        "Authored signal replacement requested for an OSM transport-stop object; original OSM tags are retained as provenance.",
+        "Reuses the photographed three-lens road signal, facing approaching west-to-east road traffic. Road-center node is moved 3.5 m toward its north edge; the existing roadside node stays in place.",
+        "Physical dimensions, individual operating directions and edge offsets are reconstructed, not surveyed. Library camera selection is within 22.5 degrees; poles stay vertical."
+      ],
+      "dimensions": {
+        "Nominal height (m)": 3.5,
+        "Mast offset from source node (m)": 3.5
+      }
+    },
+    "prop:node/828649165": {
+      "sourceRef": "node/828649165",
+      "tags": {
+        "name": "Piața Gării Noi",
+        "name:hu": "Vasútállomás",
+        "name:ro": "Piața Gării Noi",
+        "operator": "CTP Cluj-Napoca",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5864958,
+        "latitude": 46.7840175
+      }
+    },
+    "prop:node/1693837265": {
+      "sourceRef": "node/1693837265",
+      "tags": {
+        "bus": "yes",
+        "name": "Piața Gării Nord",
+        "public_transport": "stop_position"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5868275,
+        "latitude": 46.7840467
+      }
+    },
+    "prop:node/2252377460": {
+      "sourceRef": "node/2252377460",
+      "tags": {
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/signals.json"
+      ],
+      "location": {
+        "longitude": 23.586912058433946,
+        "latitude": 46.784621381523024
+      },
+      "notes": [
+        "Authored signal replacement requested for an OSM transport-stop object; original OSM tags are retained as provenance.",
+        "Reuses the photographed Romanian two-head railway signal: three upper and two lower lenses, mast, rear ladder and concrete base. Heads face east along the local rail tangent; mast is 1.8 m south of the track centerline.",
+        "Physical dimensions, individual operating directions and edge offsets are reconstructed, not surveyed. Library camera selection is within 22.5 degrees; poles stay vertical."
+      ],
+      "dimensions": {
+        "Nominal height (m)": 6.1,
+        "Mast offset from source node (m)": 1.8
+      }
+    },
+    "prop:node/2252377473": {
+      "sourceRef": "node/2252377473",
+      "tags": {
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/signals.json"
+      ],
+      "location": {
+        "longitude": 23.5868753158272,
+        "latitude": 46.784710057623435
+      },
+      "notes": [
+        "Authored signal replacement requested for an OSM transport-stop object; original OSM tags are retained as provenance.",
+        "Reuses the photographed Romanian two-head railway signal: three upper and two lower lenses, mast, rear ladder and concrete base. Heads face east along the local rail tangent; mast is 1.8 m south of the track centerline.",
+        "Physical dimensions, individual operating directions and edge offsets are reconstructed, not surveyed. Library camera selection is within 22.5 degrees; poles stay vertical."
+      ],
+      "dimensions": {
+        "Nominal height (m)": 6.1,
+        "Mast offset from source node (m)": 1.8
+      }
+    },
+    "prop:node/2252377488": {
+      "sourceRef": "node/2252377488",
+      "tags": {
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/signals.json"
+      ],
+      "location": {
+        "longitude": 23.58685821178542,
+        "latitude": 46.784744573634015
+      },
+      "notes": [
+        "Authored signal replacement requested for an OSM transport-stop object; original OSM tags are retained as provenance.",
+        "Reuses the photographed Romanian two-head railway signal: three upper and two lower lenses, mast, rear ladder and concrete base. Heads face east along the local rail tangent; mast is 1.8 m south of the track centerline.",
+        "Physical dimensions, individual operating directions and edge offsets are reconstructed, not surveyed. Library camera selection is within 22.5 degrees; poles stay vertical."
+      ],
+      "dimensions": {
+        "Nominal height (m)": 6.1,
+        "Mast offset from source node (m)": 1.8
+      }
+    },
+    "prop:node/3280579642": {
+      "sourceRef": "node/3280579642",
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "Piața Gării Sud",
+        "name:hu": "Állomás tér",
+        "name:ro": "Piața Gării Sud",
+        "network": "CTP Cluj-Napoca",
+        "operator": "CTP Cluj-Napoca",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "route_ref": "3;4;5;35;9;27",
+        "shelter": "yes",
+        "trolleybus": "yes",
+        "website:official": "https://ctpcj.ro/"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/signals.json"
+      ],
+      "location": {
+        "longitude": 23.5884643,
+        "latitude": 46.7841993
+      },
+      "notes": [
+        "Authored signal replacement requested for an OSM transport-stop object; original OSM tags are retained as provenance.",
+        "Reuses the photographed three-lens road signal, facing approaching west-to-east road traffic. Road-center node is moved 3.5 m toward its north edge; the existing roadside node stays in place.",
+        "Physical dimensions, individual operating directions and edge offsets are reconstructed, not surveyed. Library camera selection is within 22.5 degrees; poles stay vertical."
+      ],
+      "dimensions": {
+        "Nominal height (m)": 3.5,
+        "Mast offset from source node (m)": 0
+      }
+    },
+    "prop:node/3282493058": {
+      "sourceRef": "node/3282493058",
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Grupul Școlar CFR Est",
+        "public_transport": "platform"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5913916,
+        "latitude": 46.7836278
+      }
+    },
+    "prop:node/3282493262": {
+      "sourceRef": "node/3282493262",
+      "tags": {
+        "bus": "yes",
+        "name": "Grupul Școlar CFR Est",
+        "public_transport": "stop_position"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5914812,
+        "latitude": 46.783758
+      }
+    },
+    "prop:node/3284221484": {
+      "sourceRef": "node/3284221484",
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Piața Gării Vest",
+        "public_transport": "platform"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5873924,
+        "latitude": 46.7822341
+      }
+    },
+    "prop:node/3284221485": {
+      "sourceRef": "node/3284221485",
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Piața Gării Nord",
+        "name:hu": "Állomás tér",
+        "name:ro": "Piața Gării Nord",
+        "public_transport": "platform",
+        "route_ref": "31;31b;39"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5868224,
+        "latitude": 46.7840851
+      }
+    },
+    "prop:node/4446477080": {
+      "sourceRef": "node/4446477080",
+      "tags": {
+        "barrier": "gate"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.586156,
+        "latitude": 46.782994
+      }
+    },
+    "prop:node/6362990907": {
+      "sourceRef": "node/6362990907",
+      "tags": {
+        "amenity": "bicycle_parking",
+        "capacity": "2"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5883639,
+        "latitude": 46.7845489
+      }
+    },
+    "prop:node/8296919170": {
+      "sourceRef": "node/8296919170",
+      "tags": {
+        "bus": "yes",
+        "name": "Piața Gării Vest",
+        "public_transport": "stop_position"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5874485,
+        "latitude": 46.7822385
+      }
+    },
+    "prop:node/8297135362": {
+      "sourceRef": "node/8297135362",
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gara Mică",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5892158,
+        "latitude": 46.7845302
+      }
+    },
+    "prop:node/8321461620": {
+      "sourceRef": "node/8321461620",
+      "tags": {
+        "amenity": "bench"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5866351,
+        "latitude": 46.7841097
+      }
+    },
+    "prop:node/8321461621": {
+      "sourceRef": "node/8321461621",
+      "tags": {
+        "amenity": "bench"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5867687,
+        "latitude": 46.7841291
+      }
+    },
+    "prop:node/8457424746": {
+      "sourceRef": "node/8457424746",
+      "tags": {
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/signals.json"
+      ],
+      "location": {
+        "longitude": 23.58681399534294,
+        "latitude": 46.7848242542435
+      },
+      "notes": [
+        "Authored signal replacement requested for an OSM transport-stop object; original OSM tags are retained as provenance.",
+        "Reuses the photographed Romanian two-head railway signal: three upper and two lower lenses, mast, rear ladder and concrete base. Heads face east along the local rail tangent; mast is 1.8 m south of the track centerline.",
+        "Physical dimensions, individual operating directions and edge offsets are reconstructed, not surveyed. Library camera selection is within 22.5 degrees; poles stay vertical."
+      ],
+      "dimensions": {
+        "Nominal height (m)": 6.1,
+        "Mast offset from source node (m)": 1.8
+      }
+    },
+    "prop:node/8457424747": {
+      "sourceRef": "node/8457424747",
+      "tags": {
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/signals.json"
+      ],
+      "location": {
+        "longitude": 23.58693741070927,
+        "latitude": 46.78458425677773
+      },
+      "notes": [
+        "Authored signal replacement requested for an OSM transport-stop object; original OSM tags are retained as provenance.",
+        "Reuses the photographed Romanian two-head railway signal: three upper and two lower lenses, mast, rear ladder and concrete base. Heads face east along the local rail tangent; mast is 1.8 m south of the track centerline.",
+        "Physical dimensions, individual operating directions and edge offsets are reconstructed, not surveyed. Library camera selection is within 22.5 degrees; poles stay vertical."
+      ],
+      "dimensions": {
+        "Nominal height (m)": 6.1,
+        "Mast offset from source node (m)": 1.8
+      }
+    },
+    "prop:node/8601983790": {
+      "sourceRef": "node/8601983790",
+      "tags": {
+        "bus": "yes",
+        "name": "Gara Mică",
+        "public_transport": "stop_position"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5892298,
+        "latitude": 46.7845075
+      }
+    },
+    "prop:node/9648311727": {
+      "sourceRef": "node/9648311727",
+      "tags": {
+        "barrier": "gate"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5847734,
+        "latitude": 46.7837237
+      }
+    },
+    "prop:node/9648311728": {
+      "sourceRef": "node/9648311728",
+      "tags": {
+        "barrier": "gate"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5848589,
+        "latitude": 46.7837392
+      }
+    },
+    "prop:node/9648311729": {
+      "sourceRef": "node/9648311729",
+      "tags": {
+        "barrier": "gate"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5847869,
+        "latitude": 46.7832498
+      }
+    },
+    "prop:node/10707709603": {
+      "sourceRef": "node/10707709603",
+      "tags": {
+        "barrier": "gate"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5868722,
+        "latitude": 46.7855003
+      }
+    },
+    "prop:node/10823759773": {
+      "sourceRef": "node/10823759773",
+      "tags": {
+        "barrier": "gate"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5859953,
+        "latitude": 46.7825587
+      }
+    },
+    "prop:node/10823759774": {
+      "sourceRef": "node/10823759774",
+      "tags": {
+        "barrier": "gate"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.585982,
+        "latitude": 46.7825391
+      }
+    },
+    "prop:node/13654524989": {
+      "sourceRef": "node/13654524989",
+      "tags": {
+        "amenity": "bench"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5857651,
+        "latitude": 46.7841103
+      }
+    },
+    "prop:node/13654524990": {
+      "sourceRef": "node/13654524990",
+      "tags": {
+        "amenity": "bench"
+      },
+      "sourceFiles": [
+        "sources/osm/osm-source.json"
+      ],
+      "location": {
+        "longitude": 23.5857125,
+        "latitude": 46.7841011
+      }
+    },
+    "tunnel-entrance:stairs-way-375790739": {
+      "sourceRef": "stairs-way-375790739",
+      "tags": {},
+      "sourceFiles": []
+    },
+    "tunnel-entrance:stairs-way-375790743": {
+      "sourceRef": "way/375790743",
+      "tags": {},
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/underpasses.json"
+      ],
+      "location": {
+        "longitude": 23.587717849999997,
+        "latitude": 46.78400255
+      },
+      "notes": [
+        "Length and direction follow the mapped stair centerline. The lower end connects to the mapped tunnel; the surface mouth is at the opposite endpoint.",
+        "Photo-informed weathered stone/stucco, granite coping and two stair flights with a landing. Full-size railing patterns, stainless handrails, street planters and a recessed lit corridor are rendered with Cycles through the exact five map cameras.",
+        "A pavement holdout clips buried geometry to the mapped opening. Physically based daylight and indirect shadows provide recess depth. Width, depth, step count and unseen details are reconstructed."
+      ],
+      "dimensions": {
+        "Length (m)": 7.254658182941469,
+        "Clear width (m)": 3.4,
+        "Depth (m)": 2.65,
+        "Maximum above-ground height (m)": 1.53,
+        "Steps": 16
+      }
+    },
+    "tunnel-entrance:stairs-way-375790747": {
+      "sourceRef": "stairs-way-375790747",
+      "tags": {},
+      "sourceFiles": []
+    },
+    "tunnel-entrance:stairs-way-375790749": {
+      "sourceRef": "way/375790749",
+      "tags": {},
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/underpasses.json"
+      ],
+      "location": {
+        "longitude": 23.587643,
+        "latitude": 46.78439830000001
+      },
+      "notes": [
+        "Length and direction follow the mapped stair centerline. The lower end connects to the mapped tunnel; the surface mouth is at the opposite endpoint.",
+        "Photo-informed weathered stone/stucco, granite coping and two stair flights with a landing. Full-size railing patterns, stainless handrails, street planters and a recessed lit corridor are rendered with Cycles through the exact five map cameras.",
+        "A pavement holdout clips buried geometry to the mapped opening. Physically based daylight and indirect shadows provide recess depth. Width, depth, step count and unseen details are reconstructed."
+      ],
+      "dimensions": {
+        "Length (m)": 8.297112558739235,
+        "Clear width (m)": 4.2,
+        "Depth (m)": 2.65,
+        "Maximum above-ground height (m)": 1.53,
+        "Steps": 16
+      }
+    },
+    "tunnel-entrance:stairs-way-550809107": {
+      "sourceRef": "stairs-way-550809107",
+      "tags": {},
+      "sourceFiles": []
+    },
+    "tunnel-entrance:stairs-way-550809109": {
+      "sourceRef": "way/550809109",
+      "tags": {},
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/underpasses.json"
+      ],
+      "location": {
+        "longitude": 23.585966900000003,
+        "latitude": 46.784133999999995
+      },
+      "notes": [
+        "Length and direction follow the mapped stair centerline. The lower end connects to the mapped tunnel; the surface mouth is at the opposite endpoint.",
+        "Photo-informed weathered stone/stucco, granite coping and two stair flights with a landing. Full-size railing patterns, stainless handrails, street planters and a recessed lit corridor are rendered with Cycles through the exact five map cameras.",
+        "A pavement holdout clips buried geometry to the mapped opening. Physically based daylight and indirect shadows provide recess depth. Width, depth, step count and unseen details are reconstructed."
+      ],
+      "dimensions": {
+        "Length (m)": 9.751668063646045,
+        "Clear width (m)": 4,
+        "Depth (m)": 2.65,
+        "Maximum above-ground height (m)": 1.53,
+        "Steps": 16
+      }
+    },
+    "tunnel-entrance:stairs-way-550809110": {
+      "sourceRef": "stairs-way-550809110",
+      "tags": {},
+      "sourceFiles": []
+    },
+    "tunnel-entrance:stairs-way-551047361": {
+      "sourceRef": "stairs-way-551047361",
+      "tags": {},
+      "sourceFiles": []
+    },
+    "tunnel-entrance:stairs-way-892692965": {
+      "sourceRef": "stairs-way-892692965",
+      "tags": {},
+      "sourceFiles": []
+    },
+    "tunnel-entrance:stairs-way-892692968": {
+      "sourceRef": "stairs-way-892692968",
+      "tags": {},
+      "sourceFiles": []
+    },
+    "tunnel-entrance:approximate-stairs-platform-4-5": {
+      "sourceRef": "way/910820807",
+      "tags": {},
+      "sourceFiles": [
+        "sources/osm/osm-source.json",
+        "sources/art/underpasses.json"
+      ],
+      "location": {
+        "longitude": 23.586060874674835,
+        "latitude": 46.78467309702103
+      },
+      "notes": [
+        "Approximate Peronul 4;5 stair remains at the existing passenger-tunnel junction and aligns with the platform. The original station photo supports the simpler parapet/vertical railing style; no surveyed staircase footprint exists.",
+        "Photo-informed weathered stone/stucco, granite coping and two stair flights with a landing. Full-size railing patterns, stainless handrails, street planters and a recessed lit corridor are rendered with Cycles through the exact five map cameras.",
+        "A pavement holdout clips buried geometry to the mapped opening. Physically based daylight and indirect shadows provide recess depth. Width, depth, step count and unseen details are reconstructed."
+      ],
+      "dimensions": {
+        "Length (m)": 6.800000000000002,
+        "Clear width (m)": 2.2,
+        "Depth (m)": 2.4,
+        "Maximum above-ground height (m)": 1.3199999999999998,
+        "Steps": 15
+      }
+    },
+    "tunnel-entrance:approximate-stairs-platform-6-7": {
+      "sourceRef": "approximate-stairs-platform-6-7",
+      "tags": {},
+      "sourceFiles": []
+    },
+    "vehicle:carrefour-tram-60": {
+      "name": "CTP tram 60 — Carrefour Market",
+      "sourceFiles": [
+        "sources/art/vehicles.json"
+      ],
+      "location": {
+        "longitude": 23.588566452808568,
+        "latitude": 46.78439107208137
+      },
+      "dimensions": {
+        "length": 32,
+        "width": 2.4,
+        "height": 3.5
+      },
+      "notes": [
+        "Authored straight tram placement on the track beside Carrefour Market; not live transit data.",
+        "Existing fleet-60 design and top artwork reused. Four oblique views generated against the exact map geometry with built-in image_gen. Dimensions are the library’s nominal 32 × 2.4 × 3.5 m reconstruction."
+      ]
+    },
+    "vehicle:carrefour-red-train": {
+      "name": "Red regional train — Carrefour Market",
+      "sourceFiles": [
+        "sources/art/vehicles.json"
+      ],
+      "location": {
+        "longitude": 23.58837119013062,
+        "latitude": 46.78488602750614
+      },
+      "dimensions": {
+        "length": 42,
+        "width": 2.9,
+        "height": 3.9
+      },
+      "notes": [
+        "Authored straight two-car red train on the second station track behind Carrefour Market, opposite the tram; not live transit data.",
+        "Existing passenger-train design and top artwork reused. Four oblique views generated against the exact map geometry with built-in image_gen. Dimensions are the library’s nominal 42 × 2.9 × 3.9 m reconstruction."
+      ]
+    },
+    "platform:peron-1": {
+      "sourceRef": "way/262209819",
+      "sourceFiles": [
+        "sources/art/platforms.json",
+        "sources/osm/osm-source.json"
+      ],
+      "tags": {
+        "name": "Peronul 1",
+        "railway": "platform"
+      },
+      "dimensions": {
+        "Length (m)": 170.46824774048537,
+        "Maximum width (m)": 8.895197146012988,
+        "Nominal height (m)": 0.55
+      },
+      "notes": [
+        "Apron along the mapped station north wall, limited by the existing authored longitudinal extent and a 2.05 m setback from the first-track centerline.",
+        "Existing extracted paving, coping, yellow safety lines and concrete fascia on raised geometry.",
+        "Crossing corridors and ramps follow the existing mapped pedestrian paths; dimensions are approximate."
+      ]
+    },
+    "platform:peron-2-3": {
+      "sourceRef": "way/215798526",
+      "sourceFiles": [
+        "sources/art/platforms.json",
+        "sources/osm/osm-source.json"
+      ],
+      "tags": {
+        "name": "Peronul 2;3",
+        "railway": "platform"
+      },
+      "dimensions": {
+        "Length (m)": 489.1135006286286,
+        "Maximum width (m)": 6.157934556387067,
+        "Nominal height (m)": 0.55
+      },
+      "notes": [
+        "Exact existing OSM platform polygon; canopy centered on this island, retaining its authored length.",
+        "Existing extracted paving, coping, yellow safety lines and concrete fascia on raised geometry.",
+        "Crossing corridors and ramps follow the existing mapped pedestrian paths; dimensions are approximate."
+      ]
+    }
+  }
+}

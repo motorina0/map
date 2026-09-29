@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "view-90",
+  "name": "90° izometric",
+  "kind": "isometric",
+  "matrix": [
+    -0.866,
+    -0.866,
+    -0.5,
+    0.5
+  ],
+  "origin": {
+    "x": 947.766831,
+    "y": 391.011971
+  },
+  "scale": 0.93307673186,
+  "azimuth": 90,
+  "elevation": 35.264
+}

@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f7f9f6" />
+    <meta name="description" content="Explore maps in five perspectives. SVG and Realistic views." />
+    <title>map5</title>
+    <link rel="icon" href="data:," />
+    <script type="module" crossorigin src="/map/assets/index-WnEtEAjL.js"></script>
+    <link rel="stylesheet" crossorigin href="/map/assets/index-BLEdNZ3Z.css">
+  </head>
+  <body>
+    <main id="app">
+      <section id="landing" aria-labelledby="title">
+        <div class="landing-card">
+          <span class="brand-mark" aria-hidden="true">m<span>5</span></span>
+          <h1 id="title">map5</h1>
+          <p>One map. Five perspectives.</p>
+          <label for="map-picker">Explore a map</label>
+          <select id="map-picker"><option value="">Loading maps…</option></select>
+          <p id="landing-error" role="alert" hidden></p>
+          <div class="download-storage"><span id="download-storage">Checking saved maps…</span><button id="clear-downloads" disabled>Clear downloaded maps</button><span id="storage-status" role="status"></span></div>
+        </div>
+      </section>
+      <section id="download-page" aria-labelledby="download-title" hidden>
+        <div class="download-card">
+          <span class="brand-mark" aria-hidden="true">m<span>5</span></span>
+          <p class="download-eyebrow">GETTING YOUR MAP READY</p>
+          <h1 id="download-title" tabindex="-1">Preparing map</h1>
+          <p class="download-intro">All perspectives and zoom levels, saved on this device for your next visit.</p>
+          <div class="download-progress-heading"><span id="download-phase" role="status">Checking for updates…</span><span id="download-percent"></span></div>
+          <progress id="download-progress" max="100" aria-label="Map assets downloaded"></progress>
+          <div id="download-detail">Reading the map’s file list.</div>
+          <p id="download-note">The map will open when downloads and the first view are ready.</p>
+          <p id="download-error" role="alert" hidden></p>
+          <div class="download-actions"><button id="download-retry" hidden>Try again</button><button id="download-cancel">Back to maps</button></div>
+        </div>
+      </section>
+      <section id="viewer" aria-label="Map viewer" hidden>
+        <canvas id="map" tabindex="0" aria-label="Map. Drag to pan. Scroll or use plus and minus to zoom, brackets to rotate, and T for top view. Hover objects in the Realistic layer for file paths. Click or tap an object for editor details."></canvas>
+        <div id="object-tooltip" role="tooltip" hidden><strong></strong><span></span><code></code></div>
+        <section id="artifact-dialog" role="dialog" aria-labelledby="artifact-title" hidden>
+          <header class="artifact-header"><div><span class="artifact-type"></span><h2 id="artifact-title"></h2></div><button class="artifact-close" aria-label="Close artifact details">×</button></header>
+          <div class="artifact-scroll"><dl class="artifact-fields"></dl><div class="artifact-sources"></div></div>
+          <footer class="artifact-actions"><button class="copy-details">Copy details</button><span role="status" aria-live="polite"></span></footer>
+        </section>
+        <header class="map-bar">
+          <button id="home" class="icon-button home" aria-label="Choose another map">‹</button>
+          <span class="small-brand" aria-hidden="true">m5</span>
+          <label class="sr-only" for="active-map">Map</label>
+          <select id="active-map"></select>
+        </header>
+        <div id="loading" role="status" aria-atomic="true" hidden>
+          <div class="loading-heading">Loading map… <span id="loading-elapsed" aria-hidden="true"></span></div>
+          <div id="loading-detail">Preparing map objects…</div>
+          <div id="loading-count" aria-hidden="true"></div>
+        </div>
+        <div id="map-error" role="alert" hidden><span></span><button id="retry">Try again</button></div>
+        <div class="layer-control">
+          <button id="layers" aria-label="Choose map layer" aria-expanded="false" aria-controls="layer-panel">
+            <img id="layer-preview" alt="" /><span>Layers</span><span id="layer-current" class="sr-only"></span>
+          </button>
+          <div id="layer-panel" aria-label="Map layers" hidden></div>
+        </div>
+        <div class="navigation-controls" aria-label="Map controls">
+          <div id="view-controls" role="group" aria-label="Map perspective">
+            <button class="map-button" data-rotation="2" aria-label="Turn around" title="Turn around 180°" hidden>
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 20V9a6 6 0 0 1 12 0v7m-4-4 4 4 4-4"/></svg>
+            </button>
+            <button class="map-button" data-rotation="-1" aria-label="Turn left" title="Turn left 90°" hidden>
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 20v-5a7 7 0 0 0-7-7H5m4-4L5 8l4 4"/></svg>
+            </button>
+            <button id="top" class="map-button" aria-label="Switch to top view" aria-pressed="false">2D</button>
+            <button class="map-button" data-rotation="1" aria-label="Turn right" title="Turn right 90°" hidden>
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 20v-5a7 7 0 0 1 7-7h7m-4-4 4 4-4 4"/></svg>
+            </button>
+          </div>
+          <button id="recenter" class="map-button" aria-label="Recenter map" title="Recenter map">⌖</button>
+          <div class="zoom-controls">
+            <button id="zoom-in" class="icon-button" aria-label="Zoom in">+</button>
+            <output id="zoom-level" aria-label="Zoom level" aria-live="polite">1 / 4</output>
+            <button id="zoom-out" class="icon-button" aria-label="Zoom out">−</button>
+          </div>
+        </div>
+        <footer class="map-footer"><span id="scale-bar"></span><span id="attribution"></span></footer>
+      </section>
+    </main>
+  </body>
+</html>
